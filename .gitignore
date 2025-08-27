@@ -79,8 +79,6 @@ twst.txt
 .env
 .env.local
 .env.production
-.env.*
-!.env.example
 
 # Backup files
 backups/

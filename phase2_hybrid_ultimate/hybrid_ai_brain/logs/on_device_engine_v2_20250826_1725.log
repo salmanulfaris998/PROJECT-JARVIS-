@@ -1,0 +1,15 @@
+2025-08-26 17:25:02,050 | OnDevice13BEngine | INFO     | ✅ Advanced database schema initialized
+2025-08-26 17:25:02,050 | OnDevice13BEngine | INFO     | 🧠 Enterprise On-Device 13B Engine initialized
+2025-08-26 17:25:02,050 | OnDevice13BEngine | INFO     | 🚀 Initializing Enterprise On-Device Engine...
+2025-08-26 17:25:02,050 | OnDevice13BEngine | ERROR    | ❌ Missing dependencies: llama-cpp-python
+2025-08-26 17:25:02,050 | OnDevice13BEngine | ERROR    | Install with: pip install llama-cpp-python
+2025-08-26 17:25:31,159 | OnDevice13BEngine | INFO     | ✅ Advanced database schema initialized
+2025-08-26 17:25:31,159 | OnDevice13BEngine | INFO     | 🧠 Enterprise On-Device 13B Engine initialized
+2025-08-26 17:25:31,159 | OnDevice13BEngine | INFO     | 🚀 Initializing Enterprise On-Device Engine...
+2025-08-26 17:25:31,159 | OnDevice13BEngine | ERROR    | ❌ Missing dependencies: llama-cpp-python
+2025-08-26 17:25:31,159 | OnDevice13BEngine | ERROR    | Install with: pip install llama-cpp-python
+2025-08-26 17:25:44,905 | OnDevice13BEngine | INFO     | ✅ Advanced database schema initialized
+2025-08-26 17:25:44,905 | OnDevice13BEngine | INFO     | 🧠 Enterprise On-Device 13B Engine initialized
+2025-08-26 17:25:44,905 | OnDevice13BEngine | INFO     | 🚀 Initializing Enterprise On-Device Engine...
+2025-08-26 17:25:44,905 | OnDevice13BEngine | ERROR    | ❌ Missing dependencies: llama-cpp-python
+2025-08-26 17:25:44,905 | OnDevice13BEngine | ERROR    | Install with: pip install llama-cpp-python

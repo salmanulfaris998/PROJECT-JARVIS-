@@ -1,0 +1,138 @@
+{
+  "report_timestamp": "2025-08-25T23:38:10.827283",
+  "system_info": {
+    "hardware": {
+      "model": "MacBook Air",
+      "chip": "Apple M2",
+      "architecture": "ARM64",
+      "efficiency_cores": 4,
+      "performance_cores": 4,
+      "max_gflops": 628,
+      "neural_engine_tops": 15.8,
+      "max_memory_bandwidth": "100 GB/s"
+    },
+    "software": {
+      "macos_version": "15.1.1",
+      "python_version": "3.12.11",
+      "uptime_hours": 13.905233698354827,
+      "total_memory_gb": 8.0,
+      "available_memory_gb": 1.4897308349609375
+    },
+    "jarvis_version": "2.0 Perfect Edition",
+    "analytics_version": "1.0"
+  },
+  "current_status": {
+    "m2_metrics": {
+      "timestamp": 1756145289.4362109,
+      "cpu_percent": 0.0,
+      "memory_percent": 81.2,
+      "memory_pressure": "normal",
+      "gpu_utilization": 100.0,
+      "neural_engine_usage": 0.0,
+      "efficiency_cores_active": 4,
+      "performance_cores_active": 4,
+      "cpu_temperature": 0.0,
+      "gpu_temperature": 0.0,
+      "power_consumption": 5.0,
+      "thermal_state": "unknown",
+      "swap_usage": 79.8,
+      "bandwidth_utilization": 0.0
+    },
+    "jarvis_metrics": {
+      "ai_processing_time": 0.8,
+      "ai_success_rate": 100.0,
+      "device_control_success_rate": 100.0,
+      "voice_recognition_accuracy": 100.0,
+      "m2_gflops_current": 375.0,
+      "m2_gflops_peak": 628,
+      "neural_network_efficiency": 59.71337579617835,
+      "response_latency": 0.4
+    },
+    "monitoring_active": true
+  },
+  "performance_analysis": {
+    "status": "Insufficient data for trend analysis",
+    "data_points": 2
+  },
+  "m2_optimization": {
+    "core_utilization": {
+      "efficiency_cores_active": 4,
+      "performance_cores_active": 4,
+      "total_utilization_percent": 100.0,
+      "optimization_status": "high_usage"
+    },
+    "neural_engine": {
+      "current_usage_percent": 0.0,
+      "estimated_tops": 0.0,
+      "optimization_potential": "high"
+    },
+    "memory_bandwidth": {
+      "utilization_percent": 0.0,
+      "estimated_gbps": 0.0,
+      "efficiency_rating": "underutilized"
+    },
+    "thermal_performance": {
+      "cpu_temp_status": "unknown",
+      "gpu_temp_status": "unknown",
+      "thermal_state": "unknown",
+      "throttling_risk": "low"
+    }
+  },
+  "jarvis_insights": {
+    "ai_performance": {
+      "processing_speed_rating": "good",
+      "success_rate_status": "excellent",
+      "current_gflops_utilization": "375.0 / 628 GFLOPS",
+      "neural_efficiency_percent": 59.71337579617835
+    },
+    "interaction_quality": {
+      "voice_accuracy_rating": "excellent",
+      "device_control_rating": "excellent",
+      "response_time_rating": "excellent"
+    },
+    "optimization_opportunities": [
+      "Neural Engine utilization can be increased"
+    ]
+  },
+  "health_score": {
+    "overall_score": 81.1,
+    "status": "good",
+    "component_scores": {
+      "m2_hardware": 71.1,
+      "jarvis_software": 96.0
+    },
+    "detailed_scores": {
+      "cpu_health": 100.0,
+      "memory_health": 18.8,
+      "thermal_health": 100.0,
+      "power_efficiency": 77.3,
+      "ai_performance": 100.0,
+      "device_reliability": 100.0,
+      "voice_accuracy": 100.0,
+      "response_speed": 80.0
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "medium",
+      "category": "optimization",
+      "message": "Neural Engine is underutilized - migrate AI workloads for better performance"
+    },
+    {
+      "priority": "info",
+      "category": "status",
+      "message": "JARVIS is performing excellently across all metrics!"
+    }
+  ],
+  "alerts": [
+    {
+      "level": "warning",
+      "type": "memory",
+      "message": "High swap usage: 79.8%",
+      "timestamp": "2025-08-25T23:38:10.841541"
+    }
+  ],
+  "statistics": {
+    "error": "max() iterable argument is empty"
+  }
+}

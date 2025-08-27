@@ -1,0 +1,98 @@
+2025-08-26 16:03:38,687 | NOTHING-OS | INFO | ✅ Nothing OS integration database initialized
+2025-08-26 16:03:38,687 | NOTHING-OS | INFO | 🔥 Nothing OS Deep Integration initialized for Nothing Phone 2a
+2025-08-26 16:03:38,687 | NOTHING-OS | INFO | 🚀 Initializing Nothing OS Deep Integration System...
+2025-08-26 16:03:38,731 | NOTHING-OS | ERROR | ❌ Cannot detect Android version
+2025-08-26 16:03:50,081 | NOTHING-OS | INFO | ✅ Nothing OS integration database initialized
+2025-08-26 16:03:50,081 | NOTHING-OS | INFO | 🔥 Nothing OS Deep Integration initialized for Nothing Phone 2a
+2025-08-26 16:03:50,081 | NOTHING-OS | INFO | 🚀 Initializing Nothing OS Deep Integration System...
+2025-08-26 16:03:50,142 | NOTHING-OS | INFO | ✅ Android version detected: 15
+2025-08-26 16:03:50,212 | NOTHING-OS | INFO | ✅ Nothing OS version detected: 
+2025-08-26 16:03:50,212 | NOTHING-OS | INFO | 🔧 Initializing integration modules...
+2025-08-26 16:03:50,212 | NOTHING-OS | INFO | ✅ Integration modules initialized
+2025-08-26 16:03:50,212 | NOTHING-OS | ERROR | ❌ Nothing OS integration initialization failed: 'NothingOSDeepIntegration' object has no attribute '_accessibility_enhancement_system'
+2025-08-26 16:03:50,220 | NOTHING-OS | ERROR | Performance optimization error: 'NothingOSDeepIntegration' object has no attribute '_monitor_system_performance'
+2025-08-26 16:04:20,743 | NOTHING-OS | INFO | ✅ Nothing OS integration database initialized
+2025-08-26 16:04:20,743 | NOTHING-OS | INFO | 🔥 Nothing OS Deep Integration initialized for Nothing Phone 2a
+2025-08-26 16:04:20,743 | NOTHING-OS | INFO | 🚀 Initializing Nothing OS Deep Integration System...
+2025-08-26 16:04:20,812 | NOTHING-OS | INFO | ✅ Android version detected: 15
+2025-08-26 16:04:20,863 | NOTHING-OS | INFO | ✅ Nothing OS version detected: 
+2025-08-26 16:04:20,864 | NOTHING-OS | INFO | 🔧 Initializing integration modules...
+2025-08-26 16:04:20,864 | NOTHING-OS | INFO | ✅ Integration modules initialized
+2025-08-26 16:04:20,864 | NOTHING-OS | ERROR | ❌ Nothing OS integration initialization failed: 'NothingOSDeepIntegration' object has no attribute '_accessibility_enhancement_system'
+2025-08-26 16:04:20,874 | NOTHING-OS | ERROR | Performance optimization error: 'NothingOSDeepIntegration' object has no attribute '_monitor_system_performance'
+2025-08-26 16:06:14,854 | NOTHING-OS | INFO | ✅ Nothing OS integration database initialized
+2025-08-26 16:06:14,854 | NOTHING-OS | INFO | 🔥 Nothing OS Deep Integration initialized for Nothing Phone 2a
+2025-08-26 16:06:14,855 | NOTHING-OS | INFO | 🚀 Initializing Nothing OS Deep Integration System...
+2025-08-26 16:06:14,951 | NOTHING-OS | INFO | ✅ Android version detected: 15
+2025-08-26 16:06:15,020 | NOTHING-OS | INFO | ✅ Nothing OS version detected: 
+2025-08-26 16:06:15,020 | NOTHING-OS | INFO | 🔧 Initializing integration modules...
+2025-08-26 16:06:15,020 | NOTHING-OS | INFO | ✅ Integration modules initialized
+2025-08-26 16:06:15,020 | NOTHING-OS | INFO | ✅ Nothing OS Deep Integration System operational!
+2025-08-26 16:06:15,155 | NOTHING-OS | INFO | 🛡️ Security patch level: 2025-05-01
+2025-08-26 16:06:15,158 | NOTHING-OS | WARNING | ⚠️ Security patch is outdated
+2025-08-26 16:06:15,210 | NOTHING-OS | INFO | 🎼 Glyph Composer integration active
+2025-08-26 16:06:15,332 | NOTHING-OS | INFO | 🔐 Device encryption: Enabled
+2025-08-26 16:06:16,349 | NOTHING-OS | ERROR | Notification management error: 'NothingOSDeepIntegration' object has no attribute '_handle_priority_notifications'
+2025-08-26 16:06:16,562 | NOTHING-OS | INFO | 📊 Perf load: 12.52 12.62 12.85 15/4028 31561
+2025-08-26 16:06:16,563 | NOTHING-OS | INFO | 📊 Mem: MemTotal:        7578632 kB
+MemFree:          947880 kB
+MemAvailable:    3909340 kB
+Buffers:            6460 kB
+Cached: 
+2025-08-26 16:06:16,598 | NOTHING-OS | INFO | ✅ Custom Glyph compositions created
+2025-08-26 16:06:17,003 | NOTHING-OS | INFO | 🚀 Nothing Launcher optimized
+2025-08-26 16:06:17,327 | NOTHING-OS | INFO | 🔔 Synced Glyph with 8 notifications
+2025-08-26 16:06:17,327 | NOTHING-OS | ERROR | Glyph integration error: 'NothingOSDeepIntegration' object has no attribute '_optimize_glyph_performance'
+2025-08-26 16:06:17,437 | NOTHING-OS | INFO | 🎬 Animation scale optimized: 0.5 → 0.5
+2025-08-26 16:08:07,318 | NOTHING-OS | INFO | ✅ Nothing OS integration database initialized
+2025-08-26 16:08:07,318 | NOTHING-OS | INFO | 🔥 Nothing OS Deep Integration initialized for Nothing Phone 2a
+2025-08-26 16:08:07,318 | NOTHING-OS | INFO | 🚀 Initializing Nothing OS Deep Integration System...
+2025-08-26 16:08:07,435 | NOTHING-OS | INFO | ✅ Android version detected: 15
+2025-08-26 16:08:07,506 | NOTHING-OS | INFO | ✅ Nothing OS version detected: 
+2025-08-26 16:08:07,506 | NOTHING-OS | INFO | 🔧 Initializing integration modules...
+2025-08-26 16:08:07,506 | NOTHING-OS | INFO | ✅ Integration modules initialized
+2025-08-26 16:08:07,506 | NOTHING-OS | INFO | ✅ Nothing OS Deep Integration System operational!
+2025-08-26 16:08:07,617 | NOTHING-OS | INFO | 🛡️ Security patch level: 2025-05-01
+2025-08-26 16:08:07,620 | NOTHING-OS | WARNING | ⚠️ Security patch is outdated
+2025-08-26 16:08:07,772 | NOTHING-OS | INFO | 🎼 Glyph Composer integration active
+2025-08-26 16:08:07,777 | NOTHING-OS | INFO | 🔐 Device encryption: Enabled
+2025-08-26 16:08:08,998 | NOTHING-OS | INFO | ✅ Custom Glyph compositions created
+2025-08-26 16:08:09,150 | NOTHING-OS | INFO | 📊 Perf load: 12.15 12.47 12.77 17/4004 32398
+2025-08-26 16:08:09,150 | NOTHING-OS | INFO | 📊 Mem: MemTotal:        7578632 kB
+MemFree:         1079560 kB
+MemAvailable:    4017872 kB
+Buffers:            6548 kB
+Cached: 
+2025-08-26 16:08:09,292 | NOTHING-OS | INFO | 🚀 Nothing Launcher optimized
+2025-08-26 16:08:09,583 | NOTHING-OS | INFO | 🔔 Priority notifications handled: 7
+2025-08-26 16:08:09,583 | NOTHING-OS | ERROR | Notification management error: 'NothingOSDeepIntegration' object has no attribute '_optimize_notification_batching'
+2025-08-26 16:08:09,677 | NOTHING-OS | INFO | 🔔 Synced Glyph with 8 notifications
+2025-08-26 16:08:09,726 | NOTHING-OS | INFO | 🎬 Animation scale optimized: 0.5 → 0.5
+2025-08-26 16:08:10,125 | NOTHING-OS | INFO | ✅ Glyph performance optimized
+2025-08-26 16:09:04,396 | NOTHING-OS | INFO | ✅ Nothing OS integration database initialized
+2025-08-26 16:09:04,396 | NOTHING-OS | INFO | 🔥 Nothing OS Deep Integration initialized for Nothing Phone 2a
+2025-08-26 16:09:04,396 | NOTHING-OS | INFO | 🚀 Initializing Nothing OS Deep Integration System...
+2025-08-26 16:09:04,506 | NOTHING-OS | INFO | ✅ Android version detected: 15
+2025-08-26 16:09:04,594 | NOTHING-OS | INFO | ✅ Nothing OS version detected: 
+2025-08-26 16:09:04,595 | NOTHING-OS | INFO | 🔧 Initializing integration modules...
+2025-08-26 16:09:04,595 | NOTHING-OS | INFO | ✅ Integration modules initialized
+2025-08-26 16:09:04,595 | NOTHING-OS | INFO | ✅ Nothing OS Deep Integration System operational!
+2025-08-26 16:09:04,801 | NOTHING-OS | INFO | 🎼 Glyph Composer integration active
+2025-08-26 16:09:04,804 | NOTHING-OS | INFO | 🛡️ Security patch level: 2025-05-01
+2025-08-26 16:09:04,807 | NOTHING-OS | WARNING | ⚠️ Security patch is outdated
+2025-08-26 16:09:05,021 | NOTHING-OS | INFO | 🔐 Device encryption: Enabled
+2025-08-26 16:09:06,006 | NOTHING-OS | INFO | 🚀 Nothing Launcher optimized
+2025-08-26 16:09:06,061 | NOTHING-OS | INFO | ✅ Custom Glyph compositions created
+2025-08-26 16:09:06,108 | NOTHING-OS | INFO | 📊 Perf load: 13.05 12.77 12.86 13/4015 1728
+2025-08-26 16:09:06,108 | NOTHING-OS | INFO | 📊 Mem: MemTotal:        7578632 kB
+MemFree:         1022752 kB
+MemAvailable:    3977784 kB
+Buffers:            6548 kB
+Cached: 
+2025-08-26 16:09:06,234 | NOTHING-OS | INFO | 🔔 Priority notifications handled: 7
+2025-08-26 16:09:06,617 | NOTHING-OS | INFO | 🎬 Animation scale optimized: 0.5 → 0.5
+2025-08-26 16:09:06,990 | NOTHING-OS | INFO | 🔔 Synced Glyph with 8 notifications
+2025-08-26 16:09:07,355 | NOTHING-OS | INFO | ✅ Glyph performance optimized
+2025-08-26 16:09:07,572 | NOTHING-OS | INFO | ✅ Notification batching optimization applied
+2025-08-26 16:11:08,201 | NOTHING-OS | INFO | 🔔 Priority notifications handled: 7
+2025-08-26 16:11:08,651 | NOTHING-OS | INFO | ✅ Notification batching optimization applied

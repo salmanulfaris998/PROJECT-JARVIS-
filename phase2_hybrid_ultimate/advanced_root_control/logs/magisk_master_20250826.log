@@ -1,0 +1,35 @@
+2025-08-26 00:28:00,808 | MAGISK | INFO | _init_database | ✅ Magisk database initialized
+2025-08-26 00:28:00,808 | MAGISK | INFO | __init__ | 🛡️ Magisk Master Controller v1.0 initialized
+2025-08-26 00:28:00,808 | MAGISK | INFO | initialize_magisk_controller | 🚀 Initializing Magisk Master Controller...
+2025-08-26 00:28:01,054 | MAGISK | ERROR | _verify_root_access | ❌ Root access not available
+2025-08-26 00:28:13,690 | MAGISK | INFO | _init_database | ✅ Magisk database initialized
+2025-08-26 00:28:13,690 | MAGISK | INFO | __init__ | 🛡️ Magisk Master Controller v1.0 initialized
+2025-08-26 00:28:13,690 | MAGISK | INFO | initialize_magisk_controller | 🚀 Initializing Magisk Master Controller...
+2025-08-26 00:28:13,707 | MAGISK | ERROR | _verify_root_access | ❌ Root access not available
+2025-08-26 00:28:16,776 | MAGISK | INFO | _init_database | ✅ Magisk database initialized
+2025-08-26 00:28:16,776 | MAGISK | INFO | __init__ | 🛡️ Magisk Master Controller v1.0 initialized
+2025-08-26 00:28:16,776 | MAGISK | INFO | initialize_magisk_controller | 🚀 Initializing Magisk Master Controller...
+2025-08-26 00:28:16,793 | MAGISK | ERROR | _verify_root_access | ❌ Root access not available
+2025-08-26 00:28:48,658 | MAGISK | INFO | _init_database | ✅ Magisk database initialized
+2025-08-26 00:28:48,658 | MAGISK | INFO | __init__ | 🛡️ Magisk Master Controller v1.0 initialized
+2025-08-26 00:28:48,658 | MAGISK | INFO | initialize_magisk_controller | 🚀 Initializing Magisk Master Controller...
+2025-08-26 00:28:48,713 | MAGISK | INFO | _verify_root_access | ✅ Root access verified
+2025-08-26 00:28:48,776 | MAGISK | INFO | _verify_device_compatibility | ✅ Device verified: A142
+2025-08-26 00:28:48,858 | MAGISK | INFO | _verify_magisk_installation | ✅ Magisk binary found
+2025-08-26 00:28:48,919 | MAGISK | INFO | _verify_magisk_installation | 📊 Magisk version: 30200
+2025-08-26 00:28:48,919 | MAGISK | INFO | _scan_installed_modules | 🔍 Scanning installed Magisk modules...
+2025-08-26 00:28:49,020 | MAGISK | INFO | _scan_installed_modules | 📊 Found 0 Magisk modules
+2025-08-26 00:28:49,020 | MAGISK | INFO | initialize_magisk_controller | ✅ Magisk Master Controller operational!
+2025-08-26 00:28:49,020 | MAGISK | INFO | list_magisk_modules | 📋 Listing Magisk modules...
+2025-08-26 00:28:49,020 | MAGISK | INFO | _scan_installed_modules | 🔍 Scanning installed Magisk modules...
+2025-08-26 00:28:49,122 | MAGISK | INFO | _scan_installed_modules | 📊 Found 0 Magisk modules
+2025-08-26 00:31:44,766 | MAGISK | INFO | _init_database | ✅ Magisk database initialized
+2025-08-26 00:31:44,766 | MAGISK | INFO | __init__ | 🛡️ Magisk Master Controller v1.0 initialized
+2025-08-26 00:31:44,766 | MAGISK | INFO | initialize_magisk_controller | 🚀 Initializing Magisk Master Controller...
+2025-08-26 00:31:45,050 | MAGISK | INFO | _verify_root_access | ✅ Root access verified
+2025-08-26 00:31:45,131 | MAGISK | INFO | _verify_device_compatibility | ✅ Device verified: A142
+2025-08-26 00:31:45,221 | MAGISK | INFO | _verify_magisk_installation | ✅ Magisk binary found
+2025-08-26 00:31:45,296 | MAGISK | INFO | _verify_magisk_installation | 📊 Magisk version: 30200
+2025-08-26 00:31:45,297 | MAGISK | INFO | _scan_installed_modules | 🔍 Scanning installed Magisk modules...
+2025-08-26 00:31:45,402 | MAGISK | INFO | _scan_installed_modules | 📊 Found 0 Magisk modules
+2025-08-26 00:31:45,402 | MAGISK | INFO | initialize_magisk_controller | ✅ Magisk Master Controller operational!

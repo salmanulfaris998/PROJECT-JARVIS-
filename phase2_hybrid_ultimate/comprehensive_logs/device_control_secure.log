@@ -1,0 +1,31 @@
+2025-08-25 13:28:41,039 | enhanced_device_control | INFO | 🎯 Enhanced Device Control v2.1 - Security Focused
+2025-08-25 13:28:41,040 | enhanced_device_control | INFO | 🚀 Initializing secure device control...
+2025-08-25 13:28:41,106 | enhanced_device_control | INFO | ✅ ADB is available
+2025-08-25 13:28:41,153 | enhanced_device_control | ERROR | ❌ No devices connected or device offline
+2025-08-25 13:29:57,970 | enhanced_device_control | INFO | 🎯 Enhanced Device Control v2.1 - Security Focused
+2025-08-25 13:29:57,970 | enhanced_device_control | INFO | 🚀 Initializing secure device control...
+2025-08-25 13:29:58,049 | enhanced_device_control | INFO | ✅ ADB is available
+2025-08-25 13:29:58,095 | enhanced_device_control | INFO | ✅ Device connected: 00055349C000115
+2025-08-25 13:29:58,279 | enhanced_device_control | INFO | 📱 Device info: {'android_version': '15', 'device_model': 'A142'}
+2025-08-25 13:29:58,280 | enhanced_device_control | INFO | 📋 Loaded 15 available controls
+2025-08-25 13:29:58,280 | enhanced_device_control | INFO | ✅ Control system ready - 3 controls
+2025-08-25 13:29:58,280 | enhanced_device_control | INFO | ⚡ Executing safe command: settings
+2025-08-25 13:29:58,404 | enhanced_device_control | INFO | ⚡ Executing safe command: volume_up
+2025-08-25 13:30:21,081 | enhanced_device_control | INFO | 🎯 Enhanced Device Control v2.1 - Security Focused
+2025-08-25 13:30:21,097 | enhanced_device_control | INFO | 🚀 Initializing secure device control...
+2025-08-25 13:30:21,713 | enhanced_device_control | INFO | ✅ ADB is available
+2025-08-25 13:30:22,315 | enhanced_device_control | INFO | ✅ Device connected: 00055349C000115
+2025-08-25 13:30:24,699 | enhanced_device_control | INFO | 📱 Device info: {'android_version': '15', 'device_model': 'A142'}
+2025-08-25 13:30:24,700 | enhanced_device_control | INFO | 📋 Loaded 15 available controls
+2025-08-25 13:30:24,700 | enhanced_device_control | INFO | ✅ Control system ready - 3 controls
+2025-08-25 13:30:24,700 | enhanced_device_control | INFO | ⚡ Executing safe command: settings
+2025-08-25 13:30:26,066 | enhanced_device_control | INFO | ⚡ Executing safe command: volume_up
+2025-08-25 13:31:03,259 | enhanced_device_control | INFO | 🎯 Enhanced Device Control v2.1 - Security Focused
+2025-08-25 13:31:03,260 | enhanced_device_control | INFO | 🚀 Initializing secure device control...
+2025-08-25 13:31:03,381 | enhanced_device_control | INFO | ✅ ADB is available
+2025-08-25 13:31:03,618 | enhanced_device_control | INFO | ✅ Device connected: 00055349C000115
+2025-08-25 13:31:04,041 | enhanced_device_control | INFO | 📱 Device info: {'android_version': '15', 'device_model': 'A142'}
+2025-08-25 13:31:04,044 | enhanced_device_control | INFO | 📋 Loaded 15 available controls
+2025-08-25 13:31:04,044 | enhanced_device_control | INFO | ✅ Control system ready - 3 controls
+2025-08-25 13:31:04,045 | enhanced_device_control | INFO | ⚡ Executing safe command: settings
+2025-08-25 13:31:04,217 | enhanced_device_control | INFO | ⚡ Executing safe command: volume_up

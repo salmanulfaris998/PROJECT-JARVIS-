@@ -1,0 +1,10 @@
+2025-08-26 19:07:49,619 | OnDevice13BEngine | INFO     | ✅ Advanced database schema initialized
+2025-08-26 19:07:49,619 | OnDevice13BEngine | INFO     | 🧠 Enterprise On-Device 13B Engine initialized
+2025-08-26 19:07:49,619 | OnDevice13BEngine | INFO     | 🚀 Initializing Enterprise On-Device Engine...
+2025-08-26 19:07:49,619 | OnDevice13BEngine | INFO     | ✅ All dependencies verified
+2025-08-26 19:07:49,620 | OnDevice13BEngine | INFO     | ✅ Hardware verified: 1.2GB RAM, 8 cores
+2025-08-26 19:07:49,622 | OnDevice13BEngine | INFO     | 📥 Loading model: codellama-13b-python.q4_k_m.gguf
+2025-08-26 19:07:49,622 | OnDevice13BEngine | INFO     | 🎮 GPU acceleration: 2 layers
+2025-08-26 19:10:00,376 | OnDevice13BEngine | INFO     | ✅ Model loaded in 130.68s
+2025-08-26 19:10:00,445 | OnDevice13BEngine | INFO     | 💾 Model size: 7501.6MB, Memory: 85.7%
+2025-08-26 19:10:00,573 | OnDevice13BEngine | INFO     | 🔥 Warming up model...

@@ -1,0 +1,184 @@
+2025-08-25 15:01:00,714 | ROOT-GOD | INFO | _init_root_database:152 | 📊 Root command database initialized
+2025-08-25 15:01:00,714 | ROOT-GOD | INFO | __init__:83 | 🔥 JARVIS God-Level Root Controller v5.0 - Nothing Phone 2a Ready
+2025-08-25 15:01:00,714 | ROOT-GOD | INFO | initialize_god_level_control:160 | 🚀 Initializing God-Level Root Control System...
+2025-08-25 15:01:00,714 | ROOT-GOD | INFO | _verify_root_access:191 | 🔍 Verifying root access...
+2025-08-25 15:01:04,974 | ROOT-GOD | INFO | _verify_root_access:199 | ✅ Root access confirmed: uid=0
+2025-08-25 15:01:05,152 | ROOT-GOD | INFO | _verify_root_access:205 | ✅ Root write access confirmed
+2025-08-25 15:01:05,425 | ROOT-GOD | INFO | _detect_nothing_phone_features:232 | 📱 Device: A142
+2025-08-25 15:01:05,425 | ROOT-GOD | INFO | _detect_nothing_phone_features:233 | 🤖 Android: 15
+2025-08-25 15:01:05,425 | ROOT-GOD | INFO | _detect_nothing_phone_features:234 | 🌟 Nothing OS: 
+2025-08-25 15:01:05,425 | ROOT-GOD | INFO | _initialize_hardware_paths:245 | 🔧 Initializing hardware control paths...
+2025-08-25 15:01:05,509 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_1/b... Error: 
+2025-08-25 15:01:05,584 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_1/brightness... Error: 
+2025-08-25 15:01:05,682 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_2/b... Error: 
+2025-08-25 15:01:05,756 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_2/brightness... Error: 
+2025-08-25 15:01:05,851 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_3/b... Error: 
+2025-08-25 15:01:05,944 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_3/brightness... Error: 
+2025-08-25 15:01:06,019 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_camera/b... Error: 
+2025-08-25 15:01:06,094 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/camera_ring/brightness... Error: 
+2025-08-25 15:01:06,094 | ROOT-GOD | INFO | _initialize_hardware_paths:263 | 🌟 Glyph zones available: 0/4
+2025-08-25 15:01:06,756 | ROOT-GOD | INFO | _initialize_hardware_paths:273 | ⚡ CPU cores accessible: 8
+2025-08-25 15:01:06,757 | ROOT-GOD | INFO | _start_hardware_monitoring:729 | 📊 Hardware monitoring started
+2025-08-25 15:01:07,278 | ROOT-GOD | INFO | _verify_critical_root_capabilities:823 | 🔍 Root Capabilities Check:
+2025-08-25 15:01:07,278 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ system_write: Available
+2025-08-25 15:01:07,279 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ service_control: Available
+2025-08-25 15:01:07,279 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ hardware_access: Available
+2025-08-25 15:01:07,279 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ property_modification: Available
+2025-08-25 15:01:07,279 | ROOT-GOD | INFO | initialize_god_level_control:180 | ✅ God-Level Root Control System Operational!
+2025-08-25 15:01:07,279 | ROOT-GOD | INFO | activate_real_glyph_pattern:382 | 🌟 Activating real Glyph pattern: breathing at 255 brightness
+2025-08-25 15:01:07,333 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_1/brightness: Permission denied
+2025-08-25 15:01:07,384 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_1/trigger: Permission denied
+2025-08-25 15:01:07,459 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_2/brightness: Permission denied
+2025-08-25 15:01:07,533 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_2/trigger: Permission denied
+2025-08-25 15:01:07,593 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_3/brightness: Permission denied
+2025-08-25 15:01:07,660 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_3/trigger: Permission denied
+2025-08-25 15:01:07,718 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_camer... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_camera/brightness: Permission denied
+2025-08-25 15:01:07,770 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_camera/trigger: Permission denied
+2025-08-25 15:01:07,770 | ROOT-GOD | INFO | optimize_cpu_performance:504 | ⚡ Optimizing CPU for gaming mode
+2025-08-25 15:01:07,818 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu0/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:01:07,873 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu0/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:01:07,925 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu1/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:01:08,026 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu1/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu1/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:01:08,084 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu2/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:01:08,137 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu2/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu2/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:01:08,192 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu3/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu3/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:01:08,244 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu3/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu3/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:01:08,301 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu4/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:01:08,347 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu4/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:01:08,391 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu5/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu5/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:01:08,434 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu5/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu5/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:01:08,487 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu6/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:01:08,545 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu6/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu6/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:01:08,607 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu7/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu7/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:01:08,706 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu7/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu7/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:01:09,008 | ROOT-GOD | INFO | optimize_gpu_performance:560 | 🎮 Optimizing GPU for gaming mode
+2025-08-25 15:01:09,068 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/class/kgsl/kgsl-3d0/devfre... Error: /system/bin/sh: can't create /sys/class/kgsl/kgsl-3d0/devfreq/governor: No such file or directory
+2025-08-25 15:01:09,120 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 800000000 > /sys/class/kgsl/kgsl-3d0/devfreq/... Error: /system/bin/sh: can't create /sys/class/kgsl/kgsl-3d0/devfreq/max_freq: No such file or directory
+2025-08-25 15:01:09,121 | ROOT-GOD | INFO | manage_thermal_performance:599 | 🌡️ Managing thermal performance: performance
+2025-08-25 15:01:09,176 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 85000 > /sys/class/thermal/thermal_zone0/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone0/trip_point_0_temp: Permission denied
+2025-08-25 15:01:09,228 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 80000 > /sys/class/thermal/thermal_zone1/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone1/trip_point_0_temp: Permission denied
+2025-08-25 15:01:09,281 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 42000 > /sys/class/thermal/thermal_zone2/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone2/trip_point_0_temp: Permission denied
+2025-08-25 15:02:05,213 | ROOT-GOD | INFO | _init_root_database:152 | 📊 Root command database initialized
+2025-08-25 15:02:05,214 | ROOT-GOD | INFO | __init__:83 | 🔥 JARVIS God-Level Root Controller v5.0 - Nothing Phone 2a Ready
+2025-08-25 15:02:05,214 | ROOT-GOD | INFO | initialize_god_level_control:160 | 🚀 Initializing God-Level Root Control System...
+2025-08-25 15:02:05,214 | ROOT-GOD | INFO | _verify_root_access:191 | 🔍 Verifying root access...
+2025-08-25 15:02:05,296 | ROOT-GOD | INFO | _verify_root_access:199 | ✅ Root access confirmed: uid=0
+2025-08-25 15:02:05,478 | ROOT-GOD | INFO | _verify_root_access:205 | ✅ Root write access confirmed
+2025-08-25 15:02:05,742 | ROOT-GOD | INFO | _detect_nothing_phone_features:232 | 📱 Device: A142
+2025-08-25 15:02:05,742 | ROOT-GOD | INFO | _detect_nothing_phone_features:233 | 🤖 Android: 15
+2025-08-25 15:02:05,742 | ROOT-GOD | INFO | _detect_nothing_phone_features:234 | 🌟 Nothing OS: 
+2025-08-25 15:02:05,742 | ROOT-GOD | INFO | _initialize_hardware_paths:245 | 🔧 Initializing hardware control paths...
+2025-08-25 15:02:05,814 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_1/b... Error: 
+2025-08-25 15:02:05,896 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_1/brightness... Error: 
+2025-08-25 15:02:05,977 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_2/b... Error: 
+2025-08-25 15:02:06,048 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_2/brightness... Error: 
+2025-08-25 15:02:06,130 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_3/b... Error: 
+2025-08-25 15:02:06,203 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_3/brightness... Error: 
+2025-08-25 15:02:06,289 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_camera/b... Error: 
+2025-08-25 15:02:06,369 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/camera_ring/brightness... Error: 
+2025-08-25 15:02:06,369 | ROOT-GOD | INFO | _initialize_hardware_paths:263 | 🌟 Glyph zones available: 0/4
+2025-08-25 15:02:06,982 | ROOT-GOD | INFO | _initialize_hardware_paths:273 | ⚡ CPU cores accessible: 8
+2025-08-25 15:02:06,982 | ROOT-GOD | INFO | _start_hardware_monitoring:729 | 📊 Hardware monitoring started
+2025-08-25 15:02:07,406 | ROOT-GOD | INFO | _verify_critical_root_capabilities:823 | 🔍 Root Capabilities Check:
+2025-08-25 15:02:07,406 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ system_write: Available
+2025-08-25 15:02:07,406 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ service_control: Available
+2025-08-25 15:02:07,406 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ hardware_access: Available
+2025-08-25 15:02:07,406 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ property_modification: Available
+2025-08-25 15:02:07,407 | ROOT-GOD | INFO | initialize_god_level_control:180 | ✅ God-Level Root Control System Operational!
+2025-08-25 15:02:07,407 | ROOT-GOD | INFO | activate_real_glyph_pattern:382 | 🌟 Activating real Glyph pattern: breathing at 255 brightness
+2025-08-25 15:02:07,456 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_1/brightness: Permission denied
+2025-08-25 15:02:07,515 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_1/trigger: Permission denied
+2025-08-25 15:02:07,564 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_2/brightness: Permission denied
+2025-08-25 15:02:07,621 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_2/trigger: Permission denied
+2025-08-25 15:02:07,685 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_3/brightness: Permission denied
+2025-08-25 15:02:07,747 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_3/trigger: Permission denied
+2025-08-25 15:02:07,805 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_camer... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_camera/brightness: Permission denied
+2025-08-25 15:02:07,871 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_camera/trigger: Permission denied
+2025-08-25 15:02:07,871 | ROOT-GOD | INFO | optimize_cpu_performance:504 | ⚡ Optimizing CPU for gaming mode
+2025-08-25 15:02:07,940 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu0/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:07,991 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu0/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:08,042 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu1/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:08,096 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu1/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu1/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:08,146 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu2/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:08,203 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu2/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu2/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:08,265 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu3/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu3/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:08,323 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu3/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu3/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:08,373 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu4/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:08,432 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu4/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:08,491 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu5/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu5/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:08,550 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu5/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu5/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:08,614 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu6/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:08,676 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu6/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu6/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:08,738 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu7/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu7/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:08,801 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu7/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu7/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:09,002 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: setprop ro.vendor.perf.scroll_opt true... Error: Failed to set property 'ro.vendor.perf.scroll_opt' to 'true'.
+See dmesg for error reason.
+2025-08-25 15:02:09,111 | ROOT-GOD | INFO | optimize_gpu_performance:560 | 🎮 Optimizing GPU for gaming mode
+2025-08-25 15:02:09,162 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/class/kgsl/kgsl-3d0/devfre... Error: /system/bin/sh: can't create /sys/class/kgsl/kgsl-3d0/devfreq/governor: No such file or directory
+2025-08-25 15:02:09,214 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 800000000 > /sys/class/kgsl/kgsl-3d0/devfreq/... Error: /system/bin/sh: can't create /sys/class/kgsl/kgsl-3d0/devfreq/max_freq: No such file or directory
+2025-08-25 15:02:09,215 | ROOT-GOD | INFO | manage_thermal_performance:599 | 🌡️ Managing thermal performance: performance
+2025-08-25 15:02:09,268 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 85000 > /sys/class/thermal/thermal_zone0/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone0/trip_point_0_temp: Permission denied
+2025-08-25 15:02:09,317 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 80000 > /sys/class/thermal/thermal_zone1/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone1/trip_point_0_temp: Permission denied
+2025-08-25 15:02:09,378 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 42000 > /sys/class/thermal/thermal_zone2/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone2/trip_point_0_temp: Permission denied
+2025-08-25 15:02:32,686 | ROOT-GOD | INFO | _init_root_database:152 | 📊 Root command database initialized
+2025-08-25 15:02:32,687 | ROOT-GOD | INFO | __init__:83 | 🔥 JARVIS God-Level Root Controller v5.0 - Nothing Phone 2a Ready
+2025-08-25 15:02:32,687 | ROOT-GOD | INFO | initialize_god_level_control:160 | 🚀 Initializing God-Level Root Control System...
+2025-08-25 15:02:32,687 | ROOT-GOD | INFO | _verify_root_access:191 | 🔍 Verifying root access...
+2025-08-25 15:02:32,792 | ROOT-GOD | INFO | _verify_root_access:199 | ✅ Root access confirmed: uid=0
+2025-08-25 15:02:32,974 | ROOT-GOD | INFO | _verify_root_access:205 | ✅ Root write access confirmed
+2025-08-25 15:02:33,239 | ROOT-GOD | INFO | _detect_nothing_phone_features:232 | 📱 Device: A142
+2025-08-25 15:02:33,239 | ROOT-GOD | INFO | _detect_nothing_phone_features:233 | 🤖 Android: 15
+2025-08-25 15:02:33,239 | ROOT-GOD | INFO | _detect_nothing_phone_features:234 | 🌟 Nothing OS: 
+2025-08-25 15:02:33,239 | ROOT-GOD | INFO | _initialize_hardware_paths:245 | 🔧 Initializing hardware control paths...
+2025-08-25 15:02:33,317 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_1/b... Error: 
+2025-08-25 15:02:33,402 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_1/brightness... Error: 
+2025-08-25 15:02:33,467 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_2/b... Error: 
+2025-08-25 15:02:33,534 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_2/brightness... Error: 
+2025-08-25 15:02:33,601 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_zone_3/b... Error: 
+2025-08-25 15:02:33,671 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/zone_3/brightness... Error: 
+2025-08-25 15:02:33,744 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/aw210xx_led:glyph_camera/b... Error: 
+2025-08-25 15:02:33,828 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: test -e /sys/class/leds/camera_ring/brightness... Error: 
+2025-08-25 15:02:33,828 | ROOT-GOD | INFO | _initialize_hardware_paths:263 | 🌟 Glyph zones available: 0/4
+2025-08-25 15:02:34,441 | ROOT-GOD | INFO | _initialize_hardware_paths:273 | ⚡ CPU cores accessible: 8
+2025-08-25 15:02:34,441 | ROOT-GOD | INFO | _start_hardware_monitoring:729 | 📊 Hardware monitoring started
+2025-08-25 15:02:34,848 | ROOT-GOD | INFO | _verify_critical_root_capabilities:823 | 🔍 Root Capabilities Check:
+2025-08-25 15:02:34,849 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ system_write: Available
+2025-08-25 15:02:34,849 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ service_control: Available
+2025-08-25 15:02:34,849 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ hardware_access: Available
+2025-08-25 15:02:34,849 | ROOT-GOD | INFO | _verify_critical_root_capabilities:826 |    ✅ property_modification: Available
+2025-08-25 15:02:34,849 | ROOT-GOD | INFO | initialize_god_level_control:180 | ✅ God-Level Root Control System Operational!
+2025-08-25 15:02:34,849 | ROOT-GOD | INFO | activate_real_glyph_pattern:382 | 🌟 Activating real Glyph pattern: breathing at 255 brightness
+2025-08-25 15:02:34,901 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_1/brightness: Permission denied
+2025-08-25 15:02:34,953 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_1/trigger: Permission denied
+2025-08-25 15:02:35,001 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_2/brightness: Permission denied
+2025-08-25 15:02:35,051 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_2/trigger: Permission denied
+2025-08-25 15:02:35,098 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_zone_... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_3/brightness: Permission denied
+2025-08-25 15:02:35,153 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_zone_3/trigger: Permission denied
+2025-08-25 15:02:35,205 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 255 > /sys/class/leds/aw210xx_led:glyph_camer... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_camera/brightness: Permission denied
+2025-08-25 15:02:35,264 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo breathing > /sys/class/leds/aw210xx_led:glyph... Error: /system/bin/sh: can't create /sys/class/leds/aw210xx_led:glyph_camera/trigger: Permission denied
+2025-08-25 15:02:35,264 | ROOT-GOD | INFO | optimize_cpu_performance:504 | ⚡ Optimizing CPU for gaming mode
+2025-08-25 15:02:35,325 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu0/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:35,370 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu0/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:35,425 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu1/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:35,481 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu1/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu1/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:35,551 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu2/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:35,622 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu2/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu2/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:35,690 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu3/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu3/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:35,749 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2016000 > /sys/devices/system/cpu/cpu3/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu3/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:35,809 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu4/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:35,865 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu4/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:35,924 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu5/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu5/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:35,985 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu5/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu5/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:36,051 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu6/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:36,111 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu6/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu6/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:36,170 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/devices/system/cpu/cpu7/cp... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu7/cpufreq/scaling_governor: Permission denied
+2025-08-25 15:02:36,226 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 2400000 > /sys/devices/system/cpu/cpu7/cpufre... Error: /system/bin/sh: can't create /sys/devices/system/cpu/cpu7/cpufreq/scaling_max_freq: Permission denied
+2025-08-25 15:02:36,401 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: setprop ro.vendor.perf.scroll_opt true... Error: Failed to set property 'ro.vendor.perf.scroll_opt' to 'true'.
+See dmesg for error reason.
+2025-08-25 15:02:36,518 | ROOT-GOD | INFO | optimize_gpu_performance:560 | 🎮 Optimizing GPU for gaming mode
+2025-08-25 15:02:36,584 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo performance > /sys/class/kgsl/kgsl-3d0/devfre... Error: /system/bin/sh: can't create /sys/class/kgsl/kgsl-3d0/devfreq/governor: No such file or directory
+2025-08-25 15:02:36,628 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 800000000 > /sys/class/kgsl/kgsl-3d0/devfreq/... Error: /system/bin/sh: can't create /sys/class/kgsl/kgsl-3d0/devfreq/max_freq: No such file or directory
+2025-08-25 15:02:36,629 | ROOT-GOD | INFO | manage_thermal_performance:599 | 🌡️ Managing thermal performance: performance
+2025-08-25 15:02:36,676 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 85000 > /sys/class/thermal/thermal_zone0/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone0/trip_point_0_temp: Permission denied
+2025-08-25 15:02:36,727 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 80000 > /sys/class/thermal/thermal_zone1/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone1/trip_point_0_temp: Permission denied
+2025-08-25 15:02:36,770 | ROOT-GOD | ERROR | _run_root_command:327 | ❌ Root command failed: echo 42000 > /sys/class/thermal/thermal_zone2/trip... Error: /system/bin/sh: can't create /sys/class/thermal/thermal_zone2/trip_point_0_temp: Permission denied

@@ -1,0 +1,3 @@
+2025-08-25 16:10:30,013 | ERROR | initialize_perfect_voice_system:182 | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'
+2025-08-25 16:11:06,684 | ERROR | initialize_perfect_voice_system:182 | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'
+2025-08-25 16:11:21,362 | ERROR | initialize_perfect_voice_system:182 | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'

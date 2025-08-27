@@ -1,0 +1,162 @@
+2025-08-26 16:16:35,011 | UI-ENGINE | INFO | ✅ UI Enhancement Engine database initialized
+2025-08-26 16:16:35,011 | UI-ENGINE | INFO | 🎨 UI Enhancement Engine initialized for Nothing Phone 2a
+2025-08-26 16:16:35,012 | UI-ENGINE | INFO | 🚀 Initializing UI Enhancement System...
+2025-08-26 16:16:35,162 | UI-ENGINE | INFO | ✅ SystemUI access verified
+2025-08-26 16:16:35,252 | UI-ENGINE | INFO | ✅ Display configuration: Physical size: 1084x2412
+2025-08-26 16:16:35,368 | UI-ENGINE | INFO | 🎨 Initializing UI enhancement modules...
+2025-08-26 16:16:35,369 | UI-ENGINE | INFO | ✅ UI enhancement modules initialized
+2025-08-26 16:16:35,369 | UI-ENGINE | INFO | ✅ UI Enhancement System operational!
+2025-08-26 16:16:35,373 | UI-ENGINE | ERROR | Animation tuning error: 'UIEnhancementEngine' object has no attribute '_monitor_animation_performance'
+2025-08-26 16:16:35,374 | UI-ENGINE | ERROR | Theme management error: 'UIEnhancementEngine' object has no attribute '_check_theme_compatibility'
+2025-08-26 16:16:35,374 | UI-ENGINE | ERROR | Accessibility enhancement error: 'UIEnhancementEngine' object has no attribute '_assess_accessibility_needs'
+2025-08-26 16:16:35,825 | UI-ENGINE | INFO | 📐 Screen density optimized: 420 → 395 DPI
+2025-08-26 16:16:35,826 | UI-ENGINE | ERROR | Layout optimization error: 'UIEnhancementEngine' object has no attribute '_enhance_layout_responsiveness'
+2025-08-26 16:16:36,067 | UI-ENGINE | INFO | 🖥️ Display settings optimized for OLED
+2025-08-26 16:16:36,534 | UI-ENGINE | INFO | 🎨 HDR display capabilities detected
+2025-08-26 16:16:36,664 | UI-ENGINE | INFO | 🌈 Color accuracy enhanced
+2025-08-26 16:16:36,665 | UI-ENGINE | ERROR | Visual optimization error: 'UIEnhancementEngine' object has no attribute '_optimize_brightness_contrast'
+2025-08-26 16:16:40,623 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:16:40,623 | UI-ENGINE | ERROR | UI performance monitoring error: 'UIEnhancementEngine' object has no attribute '_monitor_touch_latency'
+2025-08-26 16:16:59,083 | UI-ENGINE | INFO | ✅ UI Enhancement Engine database initialized
+2025-08-26 16:16:59,083 | UI-ENGINE | INFO | 🎨 UI Enhancement Engine initialized for Nothing Phone 2a
+2025-08-26 16:16:59,083 | UI-ENGINE | INFO | 🚀 Initializing UI Enhancement System...
+2025-08-26 16:16:59,202 | UI-ENGINE | INFO | ✅ SystemUI access verified
+2025-08-26 16:16:59,305 | UI-ENGINE | INFO | ✅ Display configuration: Physical size: 1084x2412
+2025-08-26 16:16:59,414 | UI-ENGINE | INFO | 🎨 Initializing UI enhancement modules...
+2025-08-26 16:16:59,414 | UI-ENGINE | INFO | ✅ UI enhancement modules initialized
+2025-08-26 16:16:59,414 | UI-ENGINE | INFO | ✅ UI Enhancement System operational!
+2025-08-26 16:16:59,419 | UI-ENGINE | ERROR | Animation tuning error: 'UIEnhancementEngine' object has no attribute '_monitor_animation_performance'
+2025-08-26 16:16:59,419 | UI-ENGINE | ERROR | Theme management error: 'UIEnhancementEngine' object has no attribute '_check_theme_compatibility'
+2025-08-26 16:16:59,419 | UI-ENGINE | ERROR | Accessibility enhancement error: 'UIEnhancementEngine' object has no attribute '_assess_accessibility_needs'
+2025-08-26 16:16:59,600 | UI-ENGINE | ERROR | Layout optimization error: 'UIEnhancementEngine' object has no attribute '_enhance_layout_responsiveness'
+2025-08-26 16:17:00,033 | UI-ENGINE | INFO | 🖥️ Display settings optimized for OLED
+2025-08-26 16:17:00,477 | UI-ENGINE | INFO | 🎨 HDR display capabilities detected
+2025-08-26 16:17:00,552 | UI-ENGINE | INFO | 🌈 Color accuracy enhanced
+2025-08-26 16:17:00,552 | UI-ENGINE | ERROR | Visual optimization error: 'UIEnhancementEngine' object has no attribute '_optimize_brightness_contrast'
+2025-08-26 16:17:04,658 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:17:04,659 | UI-ENGINE | ERROR | UI performance monitoring error: 'UIEnhancementEngine' object has no attribute '_monitor_touch_latency'
+2025-08-26 16:17:50,297 | UI-ENGINE | INFO | ✅ UI Enhancement Engine database initialized
+2025-08-26 16:17:50,297 | UI-ENGINE | INFO | 🎨 UI Enhancement Engine initialized for Nothing Phone 2a
+2025-08-26 16:17:50,297 | UI-ENGINE | INFO | 🚀 Initializing UI Enhancement System...
+2025-08-26 16:17:50,433 | UI-ENGINE | INFO | ✅ SystemUI access verified
+2025-08-26 16:17:50,534 | UI-ENGINE | INFO | ✅ Display configuration: Physical size: 1084x2412
+2025-08-26 16:17:50,649 | UI-ENGINE | INFO | 🎨 Initializing UI enhancement modules...
+2025-08-26 16:17:50,649 | UI-ENGINE | INFO | ✅ UI enhancement modules initialized
+2025-08-26 16:17:50,649 | UI-ENGINE | INFO | ✅ UI Enhancement System operational!
+2025-08-26 16:17:50,654 | UI-ENGINE | ERROR | Animation tuning error: 'UIEnhancementEngine' object has no attribute '_monitor_animation_performance'
+2025-08-26 16:17:50,654 | UI-ENGINE | ERROR | Theme management error: 'UIEnhancementEngine' object has no attribute '_check_theme_compatibility'
+2025-08-26 16:17:50,654 | UI-ENGINE | ERROR | Accessibility enhancement error: 'UIEnhancementEngine' object has no attribute '_assess_accessibility_needs'
+2025-08-26 16:17:50,757 | UI-ENGINE | ERROR | Layout optimization error: 'UIEnhancementEngine' object has no attribute '_enhance_layout_responsiveness'
+2025-08-26 16:17:51,237 | UI-ENGINE | INFO | 🖥️ Display settings optimized for OLED
+2025-08-26 16:17:51,628 | UI-ENGINE | INFO | 🎨 HDR display capabilities detected
+2025-08-26 16:17:51,705 | UI-ENGINE | INFO | 🌈 Color accuracy enhanced
+2025-08-26 16:17:51,705 | UI-ENGINE | ERROR | Visual optimization error: 'UIEnhancementEngine' object has no attribute '_optimize_brightness_contrast'
+2025-08-26 16:17:55,886 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:17:55,886 | UI-ENGINE | ERROR | UI performance monitoring error: 'UIEnhancementEngine' object has no attribute '_monitor_touch_latency'
+2025-08-26 16:20:01,132 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:20:01,134 | UI-ENGINE | ERROR | UI performance monitoring error: 'UIEnhancementEngine' object has no attribute '_monitor_touch_latency'
+2025-08-26 16:20:15,155 | UI-ENGINE | INFO | ✅ UI Enhancement Engine database initialized
+2025-08-26 16:20:15,155 | UI-ENGINE | INFO | 🎨 UI Enhancement Engine initialized for Nothing Phone 2a
+2025-08-26 16:20:15,155 | UI-ENGINE | INFO | 🚀 Initializing UI Enhancement System...
+2025-08-26 16:20:15,271 | UI-ENGINE | INFO | ✅ SystemUI access verified
+2025-08-26 16:20:15,358 | UI-ENGINE | INFO | ✅ Display configuration: Physical size: 1084x2412
+2025-08-26 16:20:15,469 | UI-ENGINE | INFO | 🎨 Initializing UI enhancement modules...
+2025-08-26 16:20:15,469 | UI-ENGINE | INFO | ✅ UI enhancement modules initialized
+2025-08-26 16:20:15,469 | UI-ENGINE | INFO | ✅ UI Enhancement System operational!
+2025-08-26 16:20:15,970 | UI-ENGINE | INFO | ✅ Theme compatibility checks passed
+2025-08-26 16:20:16,175 | UI-ENGINE | INFO | 📈 Anim scales: {'window_animation_scale': '0.5', 'transition_animation_scale': '0.5', 'animator_duration_scale': '0.5'}
+2025-08-26 16:20:16,422 | UI-ENGINE | INFO | 📐 Custom density already set; leaving as-is
+2025-08-26 16:20:16,471 | UI-ENGINE | INFO | 📖 Font scale optimized: 1.0 → 1.1
+2025-08-26 16:20:16,628 | UI-ENGINE | INFO | 🖥️ Display settings optimized for OLED
+2025-08-26 16:20:16,715 | UI-ENGINE | INFO | 🌓 Dynamic theme applied: day_adaptive
+2025-08-26 16:20:17,013 | UI-ENGINE | INFO | 🤖 JARVIS theme elements created
+2025-08-26 16:20:17,164 | UI-ENGINE | INFO | 📖 Text readability enhanced
+2025-08-26 16:20:17,965 | UI-ENGINE | INFO | 🎨 HDR display capabilities detected
+2025-08-26 16:20:18,168 | UI-ENGINE | INFO | 🌈 Color accuracy enhanced
+2025-08-26 16:20:18,371 | UI-ENGINE | INFO | 🎛️ Animation profile applied: smooth -> 0.5/0.5/0.5
+2025-08-26 16:20:18,680 | UI-ENGINE | ERROR | Visual optimization error: 'UIEnhancementEngine' object has no attribute '_apply_visual_enhancements'
+2025-08-26 16:20:20,839 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:20:20,839 | UI-ENGINE | INFO | ⌛ Touch latency ≈ 40.0 ms
+2025-08-26 16:20:20,840 | UI-ENGINE | INFO | 🖥️ UI GPU usage ≈ 20.0%
+2025-08-26 16:20:20,922 | UI-ENGINE | INFO | 💾 Mem: MemTotal:        7578632 kB
+MemFree:         1034032 kB
+MemAvailable:    3743920 kB
+Buffers:            5856 kB
+Cached: 
+2025-08-26 16:21:26,185 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:21:26,188 | UI-ENGINE | INFO | ⌛ Touch latency ≈ 40.0 ms
+2025-08-26 16:21:26,188 | UI-ENGINE | INFO | 🖥️ UI GPU usage ≈ 20.0%
+2025-08-26 16:21:26,265 | UI-ENGINE | INFO | 💾 Mem: MemTotal:        7578632 kB
+MemFree:         1028300 kB
+MemAvailable:    3753512 kB
+Buffers:            5864 kB
+Cached: 
+2025-08-26 16:22:31,524 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:22:31,525 | UI-ENGINE | INFO | ⌛ Touch latency ≈ 40.0 ms
+2025-08-26 16:22:31,525 | UI-ENGINE | INFO | 🖥️ UI GPU usage ≈ 20.0%
+2025-08-26 16:22:31,618 | UI-ENGINE | INFO | 💾 Mem: MemTotal:        7578632 kB
+MemFree:         1032392 kB
+MemAvailable:    3740516 kB
+Buffers:            5868 kB
+Cached: 
+2025-08-26 16:22:52,990 | UI-ENGINE | INFO | ✅ UI Enhancement Engine database initialized
+2025-08-26 16:22:52,991 | UI-ENGINE | INFO | 🎨 UI Enhancement Engine initialized for Nothing Phone 2a
+2025-08-26 16:22:52,991 | UI-ENGINE | INFO | 🚀 Initializing UI Enhancement System...
+2025-08-26 16:22:53,122 | UI-ENGINE | INFO | ✅ SystemUI access verified
+2025-08-26 16:22:53,206 | UI-ENGINE | INFO | ✅ Display configuration: Physical size: 1084x2412
+2025-08-26 16:22:53,321 | UI-ENGINE | INFO | 🎨 Initializing UI enhancement modules...
+2025-08-26 16:22:53,321 | UI-ENGINE | INFO | ✅ UI enhancement modules initialized
+2025-08-26 16:22:53,322 | UI-ENGINE | INFO | ✅ UI Enhancement System operational!
+2025-08-26 16:22:53,805 | UI-ENGINE | INFO | ✅ Theme compatibility checks passed
+2025-08-26 16:22:53,969 | UI-ENGINE | INFO | 📐 Custom density already set; leaving as-is
+2025-08-26 16:22:54,116 | UI-ENGINE | INFO | 📈 Anim scales: {'window_animation_scale': '0.5', 'transition_animation_scale': '0.5', 'animator_duration_scale': '0.5'}
+2025-08-26 16:22:54,349 | UI-ENGINE | INFO | 📖 Text readability enhanced
+2025-08-26 16:22:54,408 | UI-ENGINE | INFO | 🌓 Dynamic theme applied: day_adaptive
+2025-08-26 16:22:54,476 | UI-ENGINE | INFO | 🖥️ Display settings optimized for OLED
+2025-08-26 16:22:54,677 | UI-ENGINE | INFO | 🤖 JARVIS theme elements created
+2025-08-26 16:22:54,810 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:22:54,811 | UI-ENGINE | INFO | ⌛ Touch latency ≈ 40.0 ms
+2025-08-26 16:22:54,811 | UI-ENGINE | INFO | 🖥️ UI GPU usage ≈ 20.0%
+2025-08-26 16:22:55,050 | UI-ENGINE | INFO | 💾 Mem: MemTotal:        7578632 kB
+MemFree:          130916 kB
+MemAvailable:    2820564 kB
+Buffers:            5208 kB
+Cached: 
+2025-08-26 16:22:55,616 | UI-ENGINE | INFO | 🎨 HDR display capabilities detected
+2025-08-26 16:22:55,887 | UI-ENGINE | INFO | 🌈 Color accuracy enhanced
+2025-08-26 16:22:56,258 | UI-ENGINE | INFO | 🎛️ Animation profile applied: smooth -> 0.5/0.5/0.5
+2025-08-26 16:22:56,720 | UI-ENGINE | INFO | ✨ Visual enhancements applied
+2025-08-26 16:23:56,457 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:23:56,457 | UI-ENGINE | INFO | ⌛ Touch latency ≈ 40.0 ms
+2025-08-26 16:23:56,458 | UI-ENGINE | INFO | 🖥️ UI GPU usage ≈ 20.0%
+2025-08-26 16:23:56,557 | UI-ENGINE | INFO | 💾 Mem: MemTotal:        7578632 kB
+MemFree:         1089016 kB
+MemAvailable:    3717268 kB
+Buffers:            4436 kB
+Cached: 
+2025-08-26 16:24:57,795 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:24:57,797 | UI-ENGINE | INFO | ⌛ Touch latency ≈ 40.0 ms
+2025-08-26 16:24:57,797 | UI-ENGINE | INFO | 🖥️ UI GPU usage ≈ 20.0%
+2025-08-26 16:24:57,885 | UI-ENGINE | INFO | 💾 Mem: MemTotal:        7578632 kB
+MemFree:         1084056 kB
+MemAvailable:    3712656 kB
+Buffers:            4436 kB
+Cached: 
+2025-08-26 16:25:56,678 | UI-ENGINE | INFO | 📈 Anim scales: {'window_animation_scale': '0.5', 'transition_animation_scale': '0.5', 'animator_duration_scale': '0.5'}
+2025-08-26 16:25:57,491 | UI-ENGINE | INFO | 🎛️ Animation profile applied: smooth -> 0.5/0.5/0.5
+2025-08-26 16:25:59,116 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:25:59,117 | UI-ENGINE | INFO | ⌛ Touch latency ≈ 40.0 ms
+2025-08-26 16:25:59,117 | UI-ENGINE | INFO | 🖥️ UI GPU usage ≈ 20.0%
+2025-08-26 16:25:59,218 | UI-ENGINE | INFO | 💾 Mem: MemTotal:        7578632 kB
+MemFree:         1066556 kB
+MemAvailable:    3698496 kB
+Buffers:            4440 kB
+Cached: 
+2025-08-26 16:27:00,426 | UI-ENGINE | INFO | 📊 UI FPS: 60.0
+2025-08-26 16:27:00,427 | UI-ENGINE | INFO | ⌛ Touch latency ≈ 40.0 ms
+2025-08-26 16:27:00,427 | UI-ENGINE | INFO | 🖥️ UI GPU usage ≈ 20.0%
+2025-08-26 16:27:00,524 | UI-ENGINE | INFO | 💾 Mem: MemTotal:        7578632 kB
+MemFree:         1063196 kB
+MemAvailable:    3698192 kB
+Buffers:            4440 kB
+Cached: 

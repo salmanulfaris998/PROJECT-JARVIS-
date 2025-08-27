@@ -1,0 +1,35 @@
+2025-08-24 12:39:50,996 - JARVIS_Voice - INFO - ✅ Redis distributed cache enabled
+2025-08-24 12:39:51,076 - JARVIS_Voice - INFO - 🖥️ Platform: darwin
+2025-08-24 12:39:51,077 - JARVIS_Voice - INFO - 🎤 Available backends: {'system_say': True, 'system_afplay': True, 'coqui_tts': False, 'torch': True}
+2025-08-24 12:39:51,318 - JARVIS_Voice - INFO - ✅ Streaming audio interface initialized
+2025-08-24 12:39:51,318 - JARVIS_Voice - INFO - ✅ Perfect JARVIS Voice System initialized successfully!
+2025-08-24 12:39:51,318 - JARVIS_Voice - INFO - 🗣️ JARVIS speaking: 'Hello, I am JARVIS, your advanced AI assistant....' (neutral)
+2025-08-24 12:39:51,318 - JARVIS_Voice - INFO - 🎵 Synthesizing: 'Hello, I am JARVIS, your advanced AI assistant....' (neutral)
+2025-08-24 12:39:52,003 - JARVIS_Voice - INFO - 🌐 REST API server started on http://0.0.0.0:8000
+2025-08-24 12:39:52,153 - JARVIS_Voice - INFO - 🔌 WebSocket API server started on ws://localhost:8001
+2025-08-24 12:39:52,154 - JARVIS_Voice - ERROR - ❌ Speech synthesis failed: None
+2025-08-24 12:39:52,154 - JARVIS_Voice - INFO - 🗣️ JARVIS speaking: 'I'm absolutely thrilled to demonstrate my capabili...' (excited)
+2025-08-24 12:39:52,154 - JARVIS_Voice - INFO - 🎵 Synthesizing: 'I'm absolutely thrilled to demonstrate my capabili...' (excited)
+2025-08-24 12:39:52,276 - JARVIS_Voice - ERROR - ❌ Speech synthesis failed: None
+2025-08-24 12:39:52,276 - JARVIS_Voice - INFO - 🗣️ JARVIS speaking: 'Let me analyze this situation carefully before pro...' (thoughtful)
+2025-08-24 12:39:52,276 - JARVIS_Voice - INFO - 🎵 Synthesizing: 'Let me analyze this situation carefully before pro...' (thoughtful)
+2025-08-24 12:39:52,407 - JARVIS_Voice - ERROR - ❌ Speech synthesis failed: None
+2025-08-24 12:39:52,408 - JARVIS_Voice - INFO - 🗣️ JARVIS speaking: 'This is how I sound with a professional personalit...' (confident)
+2025-08-24 12:39:52,408 - JARVIS_Voice - INFO - 🎵 Synthesizing: 'This is how I sound with a professional personalit...' (confident)
+2025-08-24 12:39:52,525 - JARVIS_Voice - ERROR - ❌ Speech synthesis failed: None
+2025-08-24 12:39:53,527 - JARVIS_Voice - INFO - 🗣️ JARVIS speaking: 'This is how I sound with a friendly personality....' (confident)
+2025-08-24 12:39:53,528 - JARVIS_Voice - INFO - 🎵 Synthesizing: 'This is how I sound with a friendly personality....' (confident)
+2025-08-24 12:39:53,678 - JARVIS_Voice - ERROR - ❌ Speech synthesis failed: None
+2025-08-24 12:39:54,680 - JARVIS_Voice - INFO - 🗣️ JARVIS speaking: 'This is how I sound with a authoritative personali...' (confident)
+2025-08-24 12:39:54,680 - JARVIS_Voice - INFO - 🎵 Synthesizing: 'This is how I sound with a authoritative personali...' (confident)
+2025-08-24 12:39:54,825 - JARVIS_Voice - ERROR - ❌ Speech synthesis failed: None
+2025-08-24 12:39:55,826 - JARVIS_Voice - INFO - 🗣️ JARVIS speaking: 'This is how I sound with a casual personality....' (confident)
+2025-08-24 12:39:55,827 - JARVIS_Voice - INFO - 🎵 Synthesizing: 'This is how I sound with a casual personality....' (confident)
+2025-08-24 12:39:55,976 - JARVIS_Voice - ERROR - ❌ Speech synthesis failed: None
+2025-08-24 12:39:56,980 - JARVIS_Voice - INFO - 💾 Configuration saved to jarvis_voice_config.ini
+2025-08-24 12:39:56,980 - JARVIS_Voice - INFO - 🔄 Shutting down JARVIS Voice System...
+2025-08-24 12:39:57,095 - JARVIS_Voice - INFO - ⏹️ Streaming stopped
+2025-08-24 12:39:57,096 - JARVIS_Voice - ERROR - ❌ Error stopping rest server: 'Server' object has no attribute 'servers'
+2025-08-24 12:39:57,096 - JARVIS_Voice - INFO - ✅ websocket API server stopped
+2025-08-24 12:39:57,097 - JARVIS_Voice - INFO - 💾 Final statistics saved
+2025-08-24 12:39:57,097 - JARVIS_Voice - INFO - ✅ JARVIS Voice System shutdown complete

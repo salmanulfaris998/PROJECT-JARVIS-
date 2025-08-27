@@ -1,0 +1,34 @@
+2025-08-25 12:52:58,008 | M2-ANALYTICS | INFO | 🎯 M2 Performance Analytics - Perfect Edition Initialized
+2025-08-25 12:52:58,008 | M2-ANALYTICS | INFO | 🚀 Starting M2 performance monitoring...
+2025-08-25 12:52:58,008 | M2-ANALYTICS | INFO | ✅ M2 monitoring started successfully
+2025-08-25 12:52:58,010 | M2-ANALYTICS | INFO | 🧠 AI Processing: 0.800s, Success: True, Model: neural_network, Est. GFLOPS: 375.0
+2025-08-25 12:52:58,012 | M2-ANALYTICS | INFO | 🎛️ Device Command: smart_light_control, Success: True, Time: 0.200s
+2025-08-25 12:52:58,016 | M2-ANALYTICS | INFO | 🎤 Voice Command: Recognized: True, Confidence: 0.95, Time: 0.300s
+2025-08-25 12:52:58,019 | M2-ANALYTICS | INFO | ⏱️ Response Time: 0.400s, Type: complex_query
+2025-08-25 12:53:08,111 | M2-ANALYTICS | INFO | 📁 Data exported to jarvis_m2_report_20250825_125308.json
+2025-08-25 12:53:08,112 | M2-ANALYTICS | INFO | 🛑 Stopping M2 performance monitoring...
+2025-08-25 12:53:08,114 | M2-ANALYTICS | INFO | ✅ M2 monitoring stopped successfully
+2025-08-25 23:30:07,276 | M2-ANALYTICS | INFO | 🎯 M2 Performance Analytics - Perfect Edition Initialized
+2025-08-25 23:30:07,276 | M2-ANALYTICS | INFO | 🚀 Starting M2 performance monitoring...
+2025-08-25 23:30:07,276 | M2-ANALYTICS | INFO | ✅ M2 monitoring started successfully
+2025-08-25 23:30:07,278 | M2-ANALYTICS | INFO | 🧠 AI Processing: 0.800s, Success: True, Model: neural_network, Est. GFLOPS: 375.0
+2025-08-25 23:30:07,279 | M2-ANALYTICS | INFO | 🎛️ Device Command: smart_light_control, Success: True, Time: 0.200s
+2025-08-25 23:30:07,279 | M2-ANALYTICS | INFO | 🎤 Voice Command: Recognized: True, Confidence: 0.95, Time: 0.300s
+2025-08-25 23:30:07,280 | M2-ANALYTICS | INFO | ⏱️ Response Time: 0.400s, Type: complex_query
+2025-08-25 23:30:17,316 | M2-ANALYTICS | INFO | 📁 Data exported to jarvis_m2_report_20250825_233017.json
+2025-08-25 23:30:17,316 | M2-ANALYTICS | INFO | 🛑 Stopping M2 performance monitoring...
+2025-08-25 23:30:17,317 | M2-ANALYTICS | INFO | ✅ M2 monitoring stopped successfully
+2025-08-25 23:38:00,789 | M2-ANALYTICS | INFO | 🎯 M2 Performance Analytics - Perfect Edition Initialized
+2025-08-25 23:38:00,789 | M2-ANALYTICS | INFO | 🚀 Starting M2 performance monitoring...
+2025-08-25 23:38:00,789 | M2-ANALYTICS | INFO | ✅ M2 monitoring started successfully
+2025-08-25 23:38:00,791 | M2-ANALYTICS | INFO | 🧠 AI Processing: 0.800s, Success: True, Model: neural_network, Est. GFLOPS: 375.0
+2025-08-25 23:38:00,792 | M2-ANALYTICS | INFO | 🎛️ Device Command: smart_light_control, Success: True, Time: 0.200s
+2025-08-25 23:38:00,792 | M2-ANALYTICS | INFO | 🎤 Voice Command: Recognized: True, Confidence: 0.95, Time: 0.300s
+2025-08-25 23:38:00,793 | M2-ANALYTICS | INFO | ⏱️ Response Time: 0.400s, Type: complex_query
+2025-08-25 23:38:07,459 | M2-ANALYTICS | WARNING | 🌡️ Thermal state: unknown
+2025-08-25 23:38:09,680 | M2-ANALYTICS | WARNING | 🌡️ Thermal state: unknown
+2025-08-25 23:38:10,826 | M2-ANALYTICS | ERROR | Statistics generation error: max() iterable argument is empty
+2025-08-25 23:38:10,841 | M2-ANALYTICS | ERROR | Statistics generation error: max() iterable argument is empty
+2025-08-25 23:38:10,842 | M2-ANALYTICS | INFO | 📁 Data exported to jarvis_m2_report_20250825_233810.json
+2025-08-25 23:38:10,842 | M2-ANALYTICS | INFO | 🛑 Stopping M2 performance monitoring...
+2025-08-25 23:38:10,842 | M2-ANALYTICS | INFO | ✅ M2 monitoring stopped successfully

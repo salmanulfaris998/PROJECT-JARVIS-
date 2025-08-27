@@ -1,0 +1,35 @@
+2025-08-26 15:10:18,985 | D7200PRO | INFO | ✅ Dimensity 7200 Pro database initialized
+2025-08-26 15:10:18,985 | D7200PRO | INFO | 🔥 Dimensity 7200 Pro Optimizer initialized for Nothing Phone A142
+2025-08-26 15:10:18,985 | D7200PRO | INFO | 🚀 Initializing Dimensity 7200 Pro optimization system...
+2025-08-26 15:10:19,119 | D7200PRO | WARNING | ⚠️ Hardware detection limited, continuing with optimization
+2025-08-26 15:10:19,119 | D7200PRO | INFO | 📱 Applying Nothing Phone A142 specific optimizations...
+2025-08-26 15:10:19,337 | D7200PRO | INFO | ✅ Nothing Phone A142 optimizations applied
+2025-08-26 15:10:19,337 | D7200PRO | ERROR | ❌ Dimensity 7200 Pro initialization failed: 'Dimensity7200ProOptimizer' object has no attribute '_adaptive_performance_manager'
+2025-08-26 15:10:46,488 | D7200PRO | INFO | ✅ Dimensity 7200 Pro database initialized
+2025-08-26 15:10:46,488 | D7200PRO | INFO | 🔥 Dimensity 7200 Pro Optimizer initialized for Nothing Phone A142
+2025-08-26 15:10:46,489 | D7200PRO | INFO | 🚀 Initializing Dimensity 7200 Pro optimization system...
+2025-08-26 15:10:46,546 | D7200PRO | WARNING | ⚠️ Hardware detection limited, continuing with optimization
+2025-08-26 15:10:46,546 | D7200PRO | INFO | 📱 Applying Nothing Phone A142 specific optimizations...
+2025-08-26 15:10:46,751 | D7200PRO | INFO | ✅ Nothing Phone A142 optimizations applied
+2025-08-26 15:10:46,751 | D7200PRO | ERROR | ❌ Dimensity 7200 Pro initialization failed: 'Dimensity7200ProOptimizer' object has no attribute '_adaptive_performance_manager'
+2025-08-26 15:15:38,834 | D7200PRO | INFO | ✅ Dimensity 7200 Pro database initialized
+2025-08-26 15:15:38,834 | D7200PRO | INFO | 🔥 Dimensity 7200 Pro Optimizer initialized for Nothing Phone A142
+2025-08-26 15:15:38,834 | D7200PRO | INFO | 🚀 Initializing Dimensity 7200 Pro optimization system...
+2025-08-26 15:15:38,946 | D7200PRO | WARNING | ⚠️ Hardware detection limited, continuing with optimization
+2025-08-26 15:15:38,946 | D7200PRO | INFO | 📱 Applying Nothing Phone A142 specific optimizations...
+2025-08-26 15:15:39,161 | D7200PRO | INFO | ✅ Nothing Phone A142 optimizations applied
+2025-08-26 15:15:39,161 | D7200PRO | INFO | 🔥 Setting performance mode: balanced
+2025-08-26 15:15:39,522 | D7200PRO | INFO | 🧠 Adaptive: avg_temp=42.6°C → stepping up to PERFORMANCE
+2025-08-26 15:15:39,522 | D7200PRO | INFO | 🔥 Setting performance mode: performance
+2025-08-26 15:15:39,705 | D7200PRO | WARNING | 🌡️ Thermal warning: ambient at 47.6°C (threshold: 40.0°C)
+2025-08-26 15:15:40,110 | D7200PRO | INFO | ✅ Performance mode 'balanced' applied (1/18 operations successful)
+2025-08-26 15:15:40,110 | D7200PRO | INFO | ✅ Dimensity 7200 Pro optimization system operational!
+2025-08-26 15:15:40,110 | D7200PRO | INFO | 🎮 Enabling Dimensity 7200 Pro gaming mode...
+2025-08-26 15:15:40,110 | D7200PRO | INFO | 🔥 Setting performance mode: gaming
+2025-08-26 15:15:40,460 | D7200PRO | INFO | ✅ Performance mode 'performance' applied (1/18 operations successful)
+2025-08-26 15:15:40,976 | D7200PRO | INFO | 🎮 Applying gaming optimizations...
+2025-08-26 15:15:41,189 | D7200PRO | INFO | ✅ Gaming optimizations applied
+2025-08-26 15:15:41,190 | D7200PRO | INFO | ✅ Performance mode 'gaming' applied (1/18 operations successful)
+2025-08-26 15:15:41,190 | D7200PRO | INFO | 🎮 Applying gaming optimizations...
+2025-08-26 15:15:41,413 | D7200PRO | INFO | ✅ Gaming optimizations applied
+2025-08-26 15:15:41,413 | D7200PRO | INFO | ✅ Gaming mode enabled for Dimensity 7200 Pro

@@ -1,0 +1,53 @@
+{
+  "system_info": {
+    "version": "2.0",
+    "platform": "darwin",
+    "uptime_seconds": 5.7780561447143555,
+    "uptime_formatted": "0:00:05"
+  },
+  "performance_stats": {
+    "total_requests": 7,
+    "successful_syntheses": 0,
+    "success_rate": 0.0,
+    "cache_hits": 0,
+    "cache_hit_rate": 0.0,
+    "average_response_time": 0.23567281450544084,
+    "requests_per_second": 1.2114800937688106
+  },
+  "backend_usage": {
+    "neural_syntheses": 0,
+    "system_syntheses": 0,
+    "streaming_sessions": 0
+  },
+  "feature_status": {
+    "audio_playback": true,
+    "audio_processing": true,
+    "advanced_audio": true,
+    "Coqui TTS": false,
+    "gpu_acceleration": true,
+    "audio_formats": true,
+    "streaming_audio": true,
+    "audio_conversion": true,
+    "cloud_tts": true,
+    "websocket_api": true,
+    "rest_api": true,
+    "distributed_cache": true
+  },
+  "available_backends": {
+    "system_say": true,
+    "system_afplay": true,
+    "coqui_tts": false,
+    "torch": true
+  },
+  "configuration": {
+    "backend": "hybrid",
+    "quality": "high",
+    "gpu_enabled": true,
+    "cache_enabled": true,
+    "streaming_enabled": true
+  },
+  "cache_stats": {
+    "size": 0,
+    "max_size": 1000
+  }
+}

@@ -1,0 +1,124 @@
+2025-08-26 16:33:43,744 | CAMERA-AI | INFO | ✅ Camera AI Controller database initialized
+2025-08-26 16:33:43,744 | CAMERA-AI | INFO | 📸 Camera AI Controller initialized for Nothing Phone 2a
+2025-08-26 16:33:43,744 | CAMERA-AI | INFO | 🚀 Initializing Camera AI System...
+2025-08-26 16:33:43,803 | CAMERA-AI | ERROR | ❌ Cannot access camera hardware
+2025-08-26 16:34:09,790 | CAMERA-AI | INFO | ✅ Camera AI Controller database initialized
+2025-08-26 16:34:09,790 | CAMERA-AI | INFO | 📸 Camera AI Controller initialized for Nothing Phone 2a
+2025-08-26 16:34:09,790 | CAMERA-AI | INFO | 🚀 Initializing Camera AI System...
+2025-08-26 16:34:09,817 | CAMERA-AI | ERROR | ❌ Cannot access camera hardware
+2025-08-26 16:34:27,022 | CAMERA-AI | INFO | ✅ Camera AI Controller database initialized
+2025-08-26 16:34:27,023 | CAMERA-AI | INFO | 📸 Camera AI Controller initialized for Nothing Phone 2a
+2025-08-26 16:34:27,023 | CAMERA-AI | INFO | 🚀 Initializing Camera AI System...
+2025-08-26 16:34:27,123 | CAMERA-AI | INFO | ✅ Camera devices detected
+2025-08-26 16:34:27,230 | CAMERA-AI | INFO | ✅ Camera app access verified
+2025-08-26 16:34:29,476 | CAMERA-AI | INFO | ✅ Camera capture capability verified
+2025-08-26 16:34:29,476 | CAMERA-AI | INFO | 🧠 Initializing Camera AI models...
+2025-08-26 16:34:29,476 | CAMERA-AI | INFO | ✅ Camera AI models initialized
+2025-08-26 16:34:29,477 | CAMERA-AI | INFO | ✅ Camera AI System operational!
+2025-08-26 16:34:29,847 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:34:29,959 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:34:30,004 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:34:30,148 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:34:30,348 | CAMERA-AI | INFO | 🌙 Enabling AI Night Mode...
+2025-08-26 16:34:30,357 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:34:30,686 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:34:30,959 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:34:31,132 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:34:31,400 | CAMERA-AI | INFO | ✅ AI Night Mode enabled
+2025-08-26 16:34:31,400 | CAMERA-AI | INFO | 📸 Capturing enhanced photo: ai_scene
+2025-08-26 16:34:35,301 | CAMERA-AI | INFO | ✅ Photo captured and queued for AI enhancement
+2025-08-26 16:34:35,351 | CAMERA-AI | INFO | 🎨 Processing enhancement: [<AIFeature.SCENE_DETECTION: 'scene_detection'>, <AIFeature.HDR_ENHANCEMENT: 'hdr_enhancement'>, <AIFeature.NOISE_REDUCTION: 'noise_reduction'>]
+2025-08-26 16:34:35,970 | CAMERA-AI | ERROR | Enhancement processing failed: Object of type AIFeature is not JSON serializable
+2025-08-26 16:35:30,097 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:36:06,005 | CAMERA-AI | INFO | ✅ Camera AI Controller database initialized
+2025-08-26 16:36:06,005 | CAMERA-AI | INFO | 📸 Camera AI Controller initialized for Nothing Phone 2a
+2025-08-26 16:36:06,006 | CAMERA-AI | INFO | 🚀 Initializing Camera AI System...
+2025-08-26 16:36:06,086 | CAMERA-AI | INFO | ✅ Camera devices detected
+2025-08-26 16:36:06,195 | CAMERA-AI | INFO | ✅ Camera app access verified
+2025-08-26 16:36:08,431 | CAMERA-AI | INFO | ✅ Camera capture capability verified
+2025-08-26 16:36:08,431 | CAMERA-AI | INFO | 🧠 Initializing Camera AI models...
+2025-08-26 16:36:08,431 | CAMERA-AI | INFO | ✅ Camera AI models initialized
+2025-08-26 16:36:08,431 | CAMERA-AI | INFO | ✅ Camera AI System operational!
+2025-08-26 16:36:08,797 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:36:08,965 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:36:09,224 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:36:09,321 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:36:09,348 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:36:09,643 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:36:09,707 | CAMERA-AI | INFO | 🌙 Enabling AI Night Mode...
+2025-08-26 16:36:09,793 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:36:09,992 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:36:10,350 | CAMERA-AI | INFO | ✅ AI Night Mode enabled
+2025-08-26 16:36:10,350 | CAMERA-AI | INFO | 📸 Capturing enhanced photo: ai_scene
+2025-08-26 16:36:13,999 | CAMERA-AI | INFO | ✅ Photo captured and queued for AI enhancement
+2025-08-26 16:36:14,096 | CAMERA-AI | INFO | 🎨 Processing enhancement: [<AIFeature.SCENE_DETECTION: 'scene_detection'>, <AIFeature.HDR_ENHANCEMENT: 'hdr_enhancement'>, <AIFeature.NOISE_REDUCTION: 'noise_reduction'>]
+2025-08-26 16:36:14,272 | CAMERA-AI | INFO | ✅ Enhanced photo saved: output/enhanced_photos/enhanced_1756206374.jpg (174ms)
+2025-08-26 16:37:09,689 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:38:09,876 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:38:09,966 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:38:40,265 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:39:10,047 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:39:10,545 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:39:40,848 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:40:08,374 | CAMERA-AI | INFO | ✅ Camera AI Controller database initialized
+2025-08-26 16:40:08,374 | CAMERA-AI | INFO | 📸 Camera AI Controller initialized for Nothing Phone 2a
+2025-08-26 16:40:08,374 | CAMERA-AI | INFO | 🚀 Initializing Camera AI System...
+2025-08-26 16:40:08,473 | CAMERA-AI | INFO | ✅ Camera devices detected
+2025-08-26 16:40:08,589 | CAMERA-AI | INFO | ✅ Camera app access verified
+2025-08-26 16:40:11,064 | CAMERA-AI | INFO | ✅ Camera capture capability verified
+2025-08-26 16:40:11,065 | CAMERA-AI | INFO | 🧠 Initializing Camera AI models...
+2025-08-26 16:40:11,065 | CAMERA-AI | INFO | ✅ Camera AI models initialized
+2025-08-26 16:40:11,065 | CAMERA-AI | INFO | ✅ Camera AI System operational!
+2025-08-26 16:40:11,297 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:40:11,369 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:40:11,507 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:40:11,588 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:40:11,749 | CAMERA-AI | INFO | 🌙 Enabling AI Night Mode...
+2025-08-26 16:40:11,826 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:40:12,023 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:40:12,228 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:40:12,507 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:40:12,710 | CAMERA-AI | INFO | ✅ AI Night Mode enabled
+2025-08-26 16:40:12,710 | CAMERA-AI | INFO | 📸 Capturing enhanced photo: ai_scene
+2025-08-26 16:40:12,718 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:40:16,394 | CAMERA-AI | INFO | ✅ Photo captured and queued for AI enhancement
+2025-08-26 16:40:16,430 | CAMERA-AI | INFO | 🎨 Processing enhancement: [<AIFeature.SCENE_DETECTION: 'scene_detection'>, <AIFeature.HDR_ENHANCEMENT: 'hdr_enhancement'>, <AIFeature.NOISE_REDUCTION: 'noise_reduction'>]
+2025-08-26 16:40:16,624 | CAMERA-AI | INFO | ✅ Enhanced photo saved: output/enhanced_photos/enhanced_1756206616.jpg (192ms)
+2025-08-26 16:40:41,631 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:41:11,688 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:41:11,804 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:41:42,008 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:42:11,832 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:42:12,212 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:42:42,435 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:43:12,014 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:43:12,782 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:43:43,034 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:44:12,232 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:53:03,013 | CAMERA-AI | INFO | ✅ Camera AI Controller database initialized
+2025-08-26 16:53:03,013 | CAMERA-AI | INFO | 📸 Camera AI Controller initialized for Nothing Phone 2a
+2025-08-26 16:53:03,013 | CAMERA-AI | INFO | 🚀 Initializing Camera AI System...
+2025-08-26 16:53:03,135 | CAMERA-AI | INFO | ✅ Camera devices detected
+2025-08-26 16:53:03,242 | CAMERA-AI | INFO | ✅ Camera app access verified
+2025-08-26 16:53:05,463 | CAMERA-AI | INFO | ✅ Camera capture capability verified
+2025-08-26 16:53:05,463 | CAMERA-AI | INFO | 🧠 Initializing Camera AI models...
+2025-08-26 16:53:05,464 | CAMERA-AI | INFO | ✅ Camera AI models initialized
+2025-08-26 16:53:05,464 | CAMERA-AI | INFO | ✅ Camera AI System operational!
+2025-08-26 16:53:05,739 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:53:05,745 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:53:05,909 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:53:06,151 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:53:06,414 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:53:06,420 | CAMERA-AI | INFO | 🌙 Enabling AI Night Mode...
+2025-08-26 16:53:06,685 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:53:06,814 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:53:06,934 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:53:07,093 | CAMERA-AI | INFO | 📸 Applied camera optimization
+2025-08-26 16:53:07,117 | CAMERA-AI | INFO | ✅ AI Night Mode enabled
+2025-08-26 16:53:07,117 | CAMERA-AI | INFO | 📸 Capturing enhanced photo: ai_scene
+2025-08-26 16:53:10,895 | CAMERA-AI | INFO | ✅ Photo captured and queued for AI enhancement
+2025-08-26 16:53:10,926 | CAMERA-AI | INFO | 🎨 Processing enhancement: [<AIFeature.SCENE_DETECTION: 'scene_detection'>, <AIFeature.HDR_ENHANCEMENT: 'hdr_enhancement'>, <AIFeature.NOISE_REDUCTION: 'noise_reduction'>]
+2025-08-26 16:53:10,927 | CAMERA-AI | ERROR | AI enhancement application failed: [Errno 21] Is a directory: 'output/input_cache/acct'
+2025-08-26 16:53:36,192 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)
+2025-08-26 16:54:06,091 | CAMERA-AI | INFO | 📊 Camera performance: FPS: 30.0, Focus time: 250ms, Shutter lag: 80ms
+2025-08-26 16:54:06,348 | CAMERA-AI | INFO | 🔍 Detected scene: landscape (0.92)

@@ -1,0 +1,5 @@
+2025-08-26 18:00:39,688 | OnDevice13BEngine | INFO     | ✅ Advanced database schema initialized
+2025-08-26 18:00:39,688 | OnDevice13BEngine | INFO     | 🧠 Enterprise On-Device 13B Engine initialized
+2025-08-26 18:00:39,689 | OnDevice13BEngine | INFO     | 🚀 Initializing Enterprise On-Device Engine...
+2025-08-26 18:00:39,689 | OnDevice13BEngine | INFO     | ✅ All dependencies verified
+2025-08-26 18:00:39,689 | OnDevice13BEngine | ERROR    | ❌ Insufficient RAM: 1.2GB (minimum: 6.0GB)

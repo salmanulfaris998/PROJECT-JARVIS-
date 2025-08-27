@@ -1,0 +1,27 @@
+2025-08-25 16:10:29,213 | VOICE-SYSTEM | INFO | 🚀 JARVIS Perfect Voice Command System v3.0 - AI Enhanced Interface
+2025-08-25 16:10:29,214 | VOICE-SYSTEM | INFO | 🎯 Initializing Perfect Voice Command System...
+2025-08-25 16:10:29,229 | VOICE-SYSTEM | INFO | ✅ Database initialized successfully
+2025-08-25 16:10:29,230 | VOICE-SYSTEM | INFO | ✅ Configuration loaded successfully
+2025-08-25 16:10:29,231 | VOICE-SYSTEM | WARNING | ⚠️ Advanced audio features not available
+2025-08-25 16:10:30,011 | VOICE-SYSTEM | WARNING | ⚠️ Advanced speech recognition not available
+2025-08-25 16:10:30,013 | VOICE-SYSTEM | INFO | ✅ Basic TTS initialized (using macOS say)
+2025-08-25 16:10:30,013 | VOICE-SYSTEM | ERROR | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'
+2025-08-25 16:10:30,051 | VOICE-SYSTEM | INFO | 🔇 Perfect listening system stopped
+2025-08-25 16:11:06,116 | VOICE-SYSTEM | INFO | 🚀 JARVIS Perfect Voice Command System v3.0 - AI Enhanced Interface
+2025-08-25 16:11:06,118 | VOICE-SYSTEM | INFO | 🎯 Initializing Perfect Voice Command System...
+2025-08-25 16:11:06,131 | VOICE-SYSTEM | INFO | ✅ Database initialized successfully
+2025-08-25 16:11:06,131 | VOICE-SYSTEM | INFO | ✅ Configuration loaded successfully
+2025-08-25 16:11:06,132 | VOICE-SYSTEM | WARNING | ⚠️ Advanced audio features not available
+2025-08-25 16:11:06,683 | VOICE-SYSTEM | WARNING | ⚠️ Advanced speech recognition not available
+2025-08-25 16:11:06,684 | VOICE-SYSTEM | INFO | ✅ Basic TTS initialized (using macOS say)
+2025-08-25 16:11:06,684 | VOICE-SYSTEM | ERROR | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'
+2025-08-25 16:11:06,699 | VOICE-SYSTEM | INFO | 🔇 Perfect listening system stopped
+2025-08-25 16:11:20,884 | VOICE-SYSTEM | INFO | 🚀 JARVIS Perfect Voice Command System v3.0 - AI Enhanced Interface
+2025-08-25 16:11:20,886 | VOICE-SYSTEM | INFO | 🎯 Initializing Perfect Voice Command System...
+2025-08-25 16:11:20,900 | VOICE-SYSTEM | INFO | ✅ Database initialized successfully
+2025-08-25 16:11:20,902 | VOICE-SYSTEM | INFO | ✅ Configuration loaded successfully
+2025-08-25 16:11:20,902 | VOICE-SYSTEM | WARNING | ⚠️ Advanced audio features not available
+2025-08-25 16:11:21,361 | VOICE-SYSTEM | WARNING | ⚠️ Advanced speech recognition not available
+2025-08-25 16:11:21,362 | VOICE-SYSTEM | INFO | ✅ Basic TTS initialized (using macOS say)
+2025-08-25 16:11:21,362 | VOICE-SYSTEM | ERROR | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'
+2025-08-25 16:11:21,390 | VOICE-SYSTEM | INFO | 🔇 Perfect listening system stopped

@@ -1,0 +1,27 @@
+2025-08-25 16:10:29,213 | METRICS | 🚀 JARVIS Perfect Voice Command System v3.0 - AI Enhanced Interface
+2025-08-25 16:10:29,214 | METRICS | 🎯 Initializing Perfect Voice Command System...
+2025-08-25 16:10:29,229 | METRICS | ✅ Database initialized successfully
+2025-08-25 16:10:29,230 | METRICS | ✅ Configuration loaded successfully
+2025-08-25 16:10:29,231 | METRICS | ⚠️ Advanced audio features not available
+2025-08-25 16:10:30,011 | METRICS | ⚠️ Advanced speech recognition not available
+2025-08-25 16:10:30,013 | METRICS | ✅ Basic TTS initialized (using macOS say)
+2025-08-25 16:10:30,013 | METRICS | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'
+2025-08-25 16:10:30,051 | METRICS | 🔇 Perfect listening system stopped
+2025-08-25 16:11:06,116 | METRICS | 🚀 JARVIS Perfect Voice Command System v3.0 - AI Enhanced Interface
+2025-08-25 16:11:06,118 | METRICS | 🎯 Initializing Perfect Voice Command System...
+2025-08-25 16:11:06,131 | METRICS | ✅ Database initialized successfully
+2025-08-25 16:11:06,131 | METRICS | ✅ Configuration loaded successfully
+2025-08-25 16:11:06,132 | METRICS | ⚠️ Advanced audio features not available
+2025-08-25 16:11:06,683 | METRICS | ⚠️ Advanced speech recognition not available
+2025-08-25 16:11:06,684 | METRICS | ✅ Basic TTS initialized (using macOS say)
+2025-08-25 16:11:06,684 | METRICS | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'
+2025-08-25 16:11:06,699 | METRICS | 🔇 Perfect listening system stopped
+2025-08-25 16:11:20,884 | METRICS | 🚀 JARVIS Perfect Voice Command System v3.0 - AI Enhanced Interface
+2025-08-25 16:11:20,886 | METRICS | 🎯 Initializing Perfect Voice Command System...
+2025-08-25 16:11:20,900 | METRICS | ✅ Database initialized successfully
+2025-08-25 16:11:20,902 | METRICS | ✅ Configuration loaded successfully
+2025-08-25 16:11:20,902 | METRICS | ⚠️ Advanced audio features not available
+2025-08-25 16:11:21,361 | METRICS | ⚠️ Advanced speech recognition not available
+2025-08-25 16:11:21,362 | METRICS | ✅ Basic TTS initialized (using macOS say)
+2025-08-25 16:11:21,362 | METRICS | ❌ System initialization failed: 'PerfectVoiceCommandSystem' object has no attribute '_lock_phone'
+2025-08-25 16:11:21,390 | METRICS | 🔇 Perfect listening system stopped

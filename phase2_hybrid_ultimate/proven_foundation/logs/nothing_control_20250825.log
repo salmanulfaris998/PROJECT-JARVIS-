@@ -1,0 +1,207 @@
+2025-08-25 13:41:27,485 | NOTHING-CONTROL | INFO | _init_command_database:134 | 📊 Command database initialized successfully
+2025-08-25 13:41:27,486 | NOTHING-CONTROL | INFO | __init__:61 | 🔥 Nothing Phone 2a Perfect Control System v3.0 Initialized
+2025-08-25 13:41:27,486 | NOTHING-CONTROL | INFO | initialize_perfect_control:142 | 🚀 Initializing Perfect Nothing Phone 2a Control System...
+2025-08-25 13:41:27,555 | NOTHING-CONTROL | INFO | _verify_system_requirements:186 | ✅ ADB Available: Android Debug Bridge version 1.0.41
+2025-08-25 13:41:28,152 | NOTHING-CONTROL | WARNING | _verify_nothing_phone_connection:218 | ⚠️ Connected device may not be Nothing Phone 2a - continuing anyway
+2025-08-25 13:41:28,153 | NOTHING-CONTROL | INFO | _verify_nothing_phone_connection:220 | ✅ Nothing Phone 2a verified and connected
+2025-08-25 13:41:28,153 | NOTHING-CONTROL | INFO | _verify_nothing_phone_connection:221 | 📱 Device: A142
+2025-08-25 13:41:28,153 | NOTHING-CONTROL | INFO | _verify_nothing_phone_connection:222 | 🤖 Android: 15
+2025-08-25 13:41:28,153 | NOTHING-CONTROL | INFO | _verify_nothing_phone_connection:223 | 🔧 Nothing OS: 
+2025-08-25 13:41:28,153 | NOTHING-CONTROL | INFO | _initialize_nothing_services:275 | 🔧 Initializing Nothing-specific services...
+2025-08-25 13:41:28,262 | NOTHING-CONTROL | WARNING | _initialize_nothing_services:304 | ⚠️ glyph_service: Not available
+2025-08-25 13:41:28,458 | NOTHING-CONTROL | INFO | _initialize_nothing_services:297 | ✅ nothing_launcher: Available
+2025-08-25 13:41:28,546 | NOTHING-CONTROL | WARNING | _initialize_nothing_services:304 | ⚠️ nothing_settings: Not available
+2025-08-25 13:41:28,747 | NOTHING-CONTROL | INFO | _initialize_nothing_services:297 | ✅ nothing_recorder: Available
+2025-08-25 13:41:28,926 | NOTHING-CONTROL | INFO | _initialize_nothing_services:297 | ✅ nothing_camera: Available
+2025-08-25 13:41:29,132 | NOTHING-CONTROL | INFO | _initialize_nothing_services:297 | ✅ nothing_gallery: Available
+2025-08-25 13:41:29,613 | NOTHING-CONTROL | INFO | _initialize_glyph_interface:346 | 🌟 Initializing Glyph Interface...
+2025-08-25 13:41:29,614 | NOTHING-CONTROL | WARNING | _initialize_glyph_interface:350 | ⚠️ Glyph service not available on this device
+2025-08-25 13:41:45,488 | NOTHING-CONTROL | INFO | _init_command_database:134 | 📊 Command database initialized successfully
+2025-08-25 13:41:45,489 | NOTHING-CONTROL | INFO | __init__:61 | 🔥 Nothing Phone 2a Perfect Control System v3.0 Initialized
+2025-08-25 13:41:45,489 | NOTHING-CONTROL | INFO | initialize_perfect_control:142 | 🚀 Initializing Perfect Nothing Phone 2a Control System...
+2025-08-25 13:41:45,523 | NOTHING-CONTROL | INFO | _verify_system_requirements:186 | ✅ ADB Available: Android Debug Bridge version 1.0.41
+2025-08-25 13:41:46,109 | NOTHING-CONTROL | WARNING | _verify_nothing_phone_connection:218 | ⚠️ Connected device may not be Nothing Phone 2a - continuing anyway
+2025-08-25 13:41:46,110 | NOTHING-CONTROL | INFO | _verify_nothing_phone_connection:220 | ✅ Nothing Phone 2a verified and connected
+2025-08-25 13:41:46,110 | NOTHING-CONTROL | INFO | _verify_nothing_phone_connection:221 | 📱 Device: A142
+2025-08-25 13:41:46,110 | NOTHING-CONTROL | INFO | _verify_nothing_phone_connection:222 | 🤖 Android: 15
+2025-08-25 13:41:46,110 | NOTHING-CONTROL | INFO | _verify_nothing_phone_connection:223 | 🔧 Nothing OS: 
+2025-08-25 13:41:46,110 | NOTHING-CONTROL | INFO | _initialize_nothing_services:275 | 🔧 Initializing Nothing-specific services...
+2025-08-25 13:41:46,211 | NOTHING-CONTROL | WARNING | _initialize_nothing_services:304 | ⚠️ glyph_service: Not available
+2025-08-25 13:41:46,388 | NOTHING-CONTROL | INFO | _initialize_nothing_services:297 | ✅ nothing_launcher: Available
+2025-08-25 13:41:46,486 | NOTHING-CONTROL | WARNING | _initialize_nothing_services:304 | ⚠️ nothing_settings: Not available
+2025-08-25 13:41:46,665 | NOTHING-CONTROL | INFO | _initialize_nothing_services:297 | ✅ nothing_recorder: Available
+2025-08-25 13:41:46,873 | NOTHING-CONTROL | INFO | _initialize_nothing_services:297 | ✅ nothing_camera: Available
+2025-08-25 13:41:47,045 | NOTHING-CONTROL | INFO | _initialize_nothing_services:297 | ✅ nothing_gallery: Available
+2025-08-25 13:41:47,430 | NOTHING-CONTROL | INFO | _initialize_glyph_interface:346 | 🌟 Initializing Glyph Interface...
+2025-08-25 13:41:47,431 | NOTHING-CONTROL | WARNING | _initialize_glyph_interface:350 | ⚠️ Glyph service not available on this device
+2025-08-25 13:57:35,555 | NOTHING-CONTROL | INFO | _init_command_database:138 | 📊 Command database initialized successfully
+2025-08-25 13:57:35,557 | NOTHING-CONTROL | INFO | __init__:65 | 🔥 Nothing Phone Universal Control System v4.0 Initialized
+2025-08-25 13:57:35,557 | NOTHING-CONTROL | INFO | initialize_universal_control:146 | 🚀 Initializing Universal Nothing Phone Control System...
+2025-08-25 13:57:35,635 | NOTHING-CONTROL | INFO | _verify_system_requirements:188 | ✅ ADB Available: Android Debug Bridge version 1.0.41
+2025-08-25 13:57:36,353 | NOTHING-CONTROL | INFO | _detect_device_capabilities:217 | ✅ Nothing Phone detected: A142
+2025-08-25 13:57:36,353 | NOTHING-CONTROL | INFO | _detect_device_capabilities:221 | 📱 Device: A142
+2025-08-25 13:57:36,353 | NOTHING-CONTROL | INFO | _detect_device_capabilities:222 | 🤖 Android: 15
+2025-08-25 13:57:36,353 | NOTHING-CONTROL | INFO | _detect_device_capabilities:223 | 🏭 Manufacturer: Nothing
+2025-08-25 13:57:36,353 | NOTHING-CONTROL | INFO | _initialize_available_services:278 | 🔧 Detecting available services...
+2025-08-25 13:57:36,861 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_launcher: Available
+2025-08-25 13:57:37,136 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_recorder: Available
+2025-08-25 13:57:37,318 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_camera: Available
+2025-08-25 13:57:37,504 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_gallery: Available
+2025-08-25 13:57:37,692 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ android_settings: Available
+2025-08-25 13:57:37,964 | NOTHING-CONTROL | INFO | _initialize_available_services:316 | 📊 Found 5/10 services
+2025-08-25 13:57:37,964 | NOTHING-CONTROL | INFO | _initialize_glyph_interface_flexible:338 | 🌟 Checking for Glyph Interface...
+2025-08-25 13:57:37,964 | NOTHING-CONTROL | INFO | _initialize_glyph_interface_flexible:342 | ℹ️  Glyph service not available - using alternative notification methods
+2025-08-25 13:57:37,965 | NOTHING-CONTROL | INFO | _start_performance_monitoring:412 | 📊 Performance monitoring started
+2025-08-25 13:57:37,965 | NOTHING-CONTROL | INFO | initialize_universal_control:169 | ✅ Universal Control System Fully Operational!
+2025-08-25 13:57:37,965 | NOTHING-CONTROL | INFO | initialize_universal_control:170 | 📊 System Health: {'overall': 'excellent', 'device_connection': 'connected', 'device_type': 'Nothing Phone', 'model': 'A142', 'glyph_interface': 'not available', 'services': '5/10 available', 'performance': 'optimal', 'timestamp': '2025-08-25T13:57:37.965269'}
+2025-08-25 13:58:09,192 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_pattern [ID: cmd_1756110489191]
+2025-08-25 13:58:14,391 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_pattern [5.195s]
+2025-08-25 13:58:41,420 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_brightness [ID: cmd_1756110521419]
+2025-08-25 13:58:44,597 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_brightness [3.173s]
+2025-08-25 13:59:17,374 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_pattern [ID: cmd_1756110557374]
+2025-08-25 13:59:22,558 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_pattern [5.182s]
+2025-08-25 13:59:24,165 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_brightness [ID: cmd_1756110564165]
+2025-08-25 13:59:27,323 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_brightness [3.155s]
+2025-08-25 13:59:40,552 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_custom [ID: cmd_1756110580552]
+2025-08-25 13:59:43,708 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_custom [3.153s]
+2025-08-25 13:59:58,388 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_off [ID: cmd_1756110598387]
+2025-08-25 14:00:01,538 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_off [3.147s]
+2025-08-25 14:00:10,845 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_launcher [ID: cmd_1756110610844]
+2025-08-25 14:00:10,953 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_launcher [0.107s]
+2025-08-25 14:00:23,459 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_settings [ID: cmd_1756110623459]
+2025-08-25 14:00:23,705 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_settings [0.244s]
+2025-08-25 14:00:27,950 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_camera [ID: cmd_1756110627950]
+2025-08-25 14:00:28,473 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_camera [0.520s]
+2025-08-25 14:00:36,471 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_recorder [ID: cmd_1756110636470]
+2025-08-25 14:00:36,859 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_recorder [0.380s]
+2025-08-25 14:00:50,628 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_performance [ID: cmd_1756110650627]
+2025-08-25 14:00:50,630 | NOTHING-CONTROL | INFO | _optimize_performance_universal:924 | 🚀 Optimizing device performance: gaming
+2025-08-25 14:00:51,224 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_performance [0.595s]
+2025-08-25 14:01:01,004 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: system_info [ID: cmd_1756110661003]
+2025-08-25 14:01:01,834 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: system_info [0.824s]
+2025-08-25 14:01:17,948 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: system_screenshot [ID: cmd_1756110677948]
+2025-08-25 14:01:20,452 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: system_screenshot [2.500s]
+2025-08-25 14:02:04,667 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: system_cleanup [ID: cmd_1756110724667]
+2025-08-25 14:02:04,861 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: system_cleanup [0.191s]
+2025-08-25 14:02:31,283 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: app_launch [ID: cmd_1756110751279]
+2025-08-25 14:02:31,992 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: app_launch [0.710s]
+2025-08-25 14:02:48,501 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: app_list [ID: cmd_1756110768500]
+2025-08-25 14:02:48,626 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: app_list [0.119s]
+2025-08-25 14:03:11,672 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: media_play [ID: cmd_1756110791672]
+2025-08-25 14:03:11,867 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: media_play [0.190s]
+2025-08-25 14:03:23,986 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: media_volume [ID: cmd_1756110803986]
+2025-08-25 14:03:24,070 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: media_volume [0.081s]
+2025-08-25 14:03:37,931 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: input_text [ID: cmd_1756110817931]
+2025-08-25 14:03:38,236 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: input_text [0.300s]
+2025-08-25 14:03:48,931 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: input_tap [ID: cmd_1756110828931]
+2025-08-25 14:03:49,050 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: input_tap [0.116s]
+2025-08-25 14:03:59,379 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: input_tap [ID: cmd_1756110839379]
+2025-08-25 14:03:59,506 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: input_tap [0.124s]
+2025-08-25 14:04:05,835 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: key_event [ID: cmd_1756110845834]
+2025-08-25 14:04:05,952 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: key_event [0.116s]
+2025-08-25 14:15:05,632 | NOTHING-CONTROL | INFO | _init_command_database:138 | 📊 Command database initialized successfully
+2025-08-25 14:15:05,634 | NOTHING-CONTROL | INFO | __init__:65 | 🔥 Nothing Phone Universal Control System v4.0 Initialized
+2025-08-25 14:15:05,634 | NOTHING-CONTROL | INFO | initialize_universal_control:146 | 🚀 Initializing Universal Nothing Phone Control System...
+2025-08-25 14:15:05,722 | NOTHING-CONTROL | INFO | _verify_system_requirements:188 | ✅ ADB Available: Android Debug Bridge version 1.0.41
+2025-08-25 14:15:06,620 | NOTHING-CONTROL | INFO | _detect_device_capabilities:217 | ✅ Nothing Phone detected: A142
+2025-08-25 14:15:06,621 | NOTHING-CONTROL | INFO | _detect_device_capabilities:221 | 📱 Device: A142
+2025-08-25 14:15:06,621 | NOTHING-CONTROL | INFO | _detect_device_capabilities:222 | 🤖 Android: 15
+2025-08-25 14:15:06,621 | NOTHING-CONTROL | INFO | _detect_device_capabilities:223 | 🏭 Manufacturer: Nothing
+2025-08-25 14:15:06,621 | NOTHING-CONTROL | INFO | _initialize_available_services:278 | 🔧 Detecting available services...
+2025-08-25 14:15:07,064 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_launcher: Available
+2025-08-25 14:15:07,375 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_recorder: Available
+2025-08-25 14:15:07,566 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_camera: Available
+2025-08-25 14:15:07,747 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_gallery: Available
+2025-08-25 14:15:07,931 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ android_settings: Available
+2025-08-25 14:15:08,217 | NOTHING-CONTROL | INFO | _initialize_available_services:316 | 📊 Found 5/10 services
+2025-08-25 14:15:08,217 | NOTHING-CONTROL | INFO | _initialize_glyph_interface_flexible:338 | 🌟 Checking for Glyph Interface...
+2025-08-25 14:15:08,217 | NOTHING-CONTROL | INFO | _initialize_glyph_interface_flexible:342 | ℹ️  Glyph service not available - using alternative notification methods
+2025-08-25 14:15:08,217 | NOTHING-CONTROL | INFO | _start_performance_monitoring:412 | 📊 Performance monitoring started
+2025-08-25 14:15:08,217 | NOTHING-CONTROL | INFO | initialize_universal_control:169 | ✅ Universal Control System Fully Operational!
+2025-08-25 14:15:08,218 | NOTHING-CONTROL | INFO | initialize_universal_control:170 | 📊 System Health: {'overall': 'excellent', 'device_connection': 'connected', 'device_type': 'Nothing Phone', 'model': 'A142', 'glyph_interface': 'not available', 'services': '5/10 available', 'performance': 'optimal', 'timestamp': '2025-08-25T14:15:08.217966'}
+2025-08-25 14:40:57,763 | NOTHING-CONTROL | INFO | _init_command_database:138 | 📊 Command database initialized successfully
+2025-08-25 14:40:57,765 | NOTHING-CONTROL | INFO | __init__:65 | 🔥 Nothing Phone Universal Control System v4.0 Initialized
+2025-08-25 14:40:57,765 | NOTHING-CONTROL | INFO | initialize_universal_control:146 | 🚀 Initializing Universal Nothing Phone Control System...
+2025-08-25 14:40:57,837 | NOTHING-CONTROL | INFO | _verify_system_requirements:188 | ✅ ADB Available: Android Debug Bridge version 1.0.41
+2025-08-25 14:40:57,863 | NOTHING-CONTROL | ERROR | _detect_device_capabilities:206 | ❌ No devices connected
+2025-08-25 14:41:19,254 | NOTHING-CONTROL | INFO | _init_command_database:138 | 📊 Command database initialized successfully
+2025-08-25 14:41:19,254 | NOTHING-CONTROL | INFO | __init__:65 | 🔥 Nothing Phone Universal Control System v4.0 Initialized
+2025-08-25 14:41:19,254 | NOTHING-CONTROL | INFO | initialize_universal_control:146 | 🚀 Initializing Universal Nothing Phone Control System...
+2025-08-25 14:41:19,287 | NOTHING-CONTROL | INFO | _verify_system_requirements:188 | ✅ ADB Available: Android Debug Bridge version 1.0.41
+2025-08-25 14:41:19,727 | NOTHING-CONTROL | INFO | _detect_device_capabilities:217 | ✅ Nothing Phone detected: A142
+2025-08-25 14:41:19,727 | NOTHING-CONTROL | INFO | _detect_device_capabilities:221 | 📱 Device: A142
+2025-08-25 14:41:19,727 | NOTHING-CONTROL | INFO | _detect_device_capabilities:222 | 🤖 Android: 15
+2025-08-25 14:41:19,727 | NOTHING-CONTROL | INFO | _detect_device_capabilities:223 | 🏭 Manufacturer: Nothing
+2025-08-25 14:41:19,727 | NOTHING-CONTROL | INFO | _initialize_available_services:278 | 🔧 Detecting available services...
+2025-08-25 14:41:19,964 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_launcher: Available
+2025-08-25 14:41:20,135 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_recorder: Available
+2025-08-25 14:41:20,244 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_camera: Available
+2025-08-25 14:41:20,351 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_gallery: Available
+2025-08-25 14:41:20,466 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ android_settings: Available
+2025-08-25 14:41:20,636 | NOTHING-CONTROL | INFO | _initialize_available_services:316 | 📊 Found 5/10 services
+2025-08-25 14:41:20,637 | NOTHING-CONTROL | INFO | _initialize_glyph_interface_flexible:338 | 🌟 Checking for Glyph Interface...
+2025-08-25 14:41:20,637 | NOTHING-CONTROL | INFO | _initialize_glyph_interface_flexible:342 | ℹ️  Glyph service not available - using alternative notification methods
+2025-08-25 14:41:20,637 | NOTHING-CONTROL | INFO | _start_performance_monitoring:412 | 📊 Performance monitoring started
+2025-08-25 14:41:20,637 | NOTHING-CONTROL | INFO | initialize_universal_control:169 | ✅ Universal Control System Fully Operational!
+2025-08-25 14:41:20,637 | NOTHING-CONTROL | INFO | initialize_universal_control:170 | 📊 System Health: {'overall': 'excellent', 'device_connection': 'connected', 'device_type': 'Nothing Phone', 'model': 'A142', 'glyph_interface': 'not available', 'services': '5/10 available', 'performance': 'optimal', 'timestamp': '2025-08-25T14:41:20.637444'}
+2025-08-25 14:41:22,117 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_pattern [ID: cmd_1756113082117]
+2025-08-25 14:41:27,220 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_pattern [5.098s]
+2025-08-25 14:41:28,219 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_brightness [ID: cmd_1756113088219]
+2025-08-25 14:41:31,318 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_brightness [3.094s]
+2025-08-25 14:41:33,326 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_custom [ID: cmd_1756113093326]
+2025-08-25 14:41:36,424 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_custom [3.096s]
+2025-08-25 14:41:37,538 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_off [ID: cmd_1756113097538]
+2025-08-25 14:41:40,660 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_off [3.117s]
+2025-08-25 14:41:41,746 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_launcher [ID: cmd_1756113101746]
+2025-08-25 14:41:41,813 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_launcher [0.063s]
+2025-08-25 14:41:43,427 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_settings [ID: cmd_1756113103427]
+2025-08-25 14:41:43,579 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_settings [0.148s]
+2025-08-25 14:41:52,499 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_camera [ID: cmd_1756113112499]
+2025-08-25 14:41:52,818 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_camera [0.314s]
+2025-08-25 14:41:55,429 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_recorder [ID: cmd_1756113115429]
+2025-08-25 14:41:55,710 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_recorder [0.279s]
+2025-08-25 14:41:57,392 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: nothing_performance [ID: cmd_1756113117392]
+2025-08-25 14:41:57,392 | NOTHING-CONTROL | INFO | _optimize_performance_universal:924 | 🚀 Optimizing device performance: gaming
+2025-08-25 14:41:57,909 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: nothing_performance [0.515s]
+2025-08-25 14:42:02,379 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: system_info [ID: cmd_1756113122378]
+2025-08-25 14:42:03,098 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: system_info [0.718s]
+2025-08-25 14:42:04,995 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: system_screenshot [ID: cmd_1756113124995]
+2025-08-25 14:42:05,362 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: system_screenshot [0.365s]
+2025-08-25 14:42:08,421 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: system_cleanup [ID: cmd_1756113128421]
+2025-08-25 14:42:08,552 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: system_cleanup [0.129s]
+2025-08-25 14:42:10,249 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: app_launch [ID: cmd_1756113130249]
+2025-08-25 14:42:10,676 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: app_launch [0.426s]
+2025-08-25 14:42:12,962 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: app_list [ID: cmd_1756113132962]
+2025-08-25 14:42:13,029 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: app_list [0.065s]
+2025-08-25 14:42:16,092 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: media_play [ID: cmd_1756113136092]
+2025-08-25 14:42:16,167 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: media_play [0.074s]
+2025-08-25 14:42:19,852 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: media_volume [ID: cmd_1756113139852]
+2025-08-25 14:42:19,903 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: media_volume [0.047s]
+2025-08-25 14:42:22,881 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: input_text [ID: cmd_1756113142881]
+2025-08-25 14:42:22,997 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: input_text [0.111s]
+2025-08-25 14:42:26,860 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: input_tap [ID: cmd_1756113146860]
+2025-08-25 14:42:26,927 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: input_tap [0.064s]
+2025-08-25 14:42:36,764 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: key_event [ID: cmd_1756113156764]
+2025-08-25 14:42:36,831 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: key_event [0.063s]
+2025-08-25 15:00:12,766 | NOTHING-CONTROL | INFO | _init_command_database:138 | 📊 Command database initialized successfully
+2025-08-25 15:00:12,766 | NOTHING-CONTROL | INFO | __init__:65 | 🔥 Nothing Phone Universal Control System v4.0 Initialized
+2025-08-25 15:00:12,767 | NOTHING-CONTROL | INFO | initialize_universal_control:146 | 🚀 Initializing Universal Nothing Phone Control System...
+2025-08-25 15:00:12,818 | NOTHING-CONTROL | INFO | _verify_system_requirements:188 | ✅ ADB Available: Android Debug Bridge version 1.0.41
+2025-08-25 15:00:13,284 | NOTHING-CONTROL | INFO | _detect_device_capabilities:217 | ✅ Nothing Phone detected: A142
+2025-08-25 15:00:13,284 | NOTHING-CONTROL | INFO | _detect_device_capabilities:221 | 📱 Device: A142
+2025-08-25 15:00:13,284 | NOTHING-CONTROL | INFO | _detect_device_capabilities:222 | 🤖 Android: 15
+2025-08-25 15:00:13,284 | NOTHING-CONTROL | INFO | _detect_device_capabilities:223 | 🏭 Manufacturer: Nothing
+2025-08-25 15:00:13,284 | NOTHING-CONTROL | INFO | _initialize_available_services:278 | 🔧 Detecting available services...
+2025-08-25 15:00:13,517 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_launcher: Available
+2025-08-25 15:00:13,696 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_recorder: Available
+2025-08-25 15:00:13,802 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_camera: Available
+2025-08-25 15:00:13,908 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ nothing_gallery: Available
+2025-08-25 15:00:14,030 | NOTHING-CONTROL | INFO | _initialize_available_services:304 | ✅ android_settings: Available
+2025-08-25 15:00:14,211 | NOTHING-CONTROL | INFO | _initialize_available_services:316 | 📊 Found 5/10 services
+2025-08-25 15:00:14,211 | NOTHING-CONTROL | INFO | _initialize_glyph_interface_flexible:338 | 🌟 Checking for Glyph Interface...
+2025-08-25 15:00:14,211 | NOTHING-CONTROL | INFO | _initialize_glyph_interface_flexible:342 | ℹ️  Glyph service not available - using alternative notification methods
+2025-08-25 15:00:14,213 | NOTHING-CONTROL | INFO | _start_performance_monitoring:412 | 📊 Performance monitoring started
+2025-08-25 15:00:14,213 | NOTHING-CONTROL | INFO | initialize_universal_control:169 | ✅ Universal Control System Fully Operational!
+2025-08-25 15:00:14,213 | NOTHING-CONTROL | INFO | initialize_universal_control:170 | 📊 System Health: {'overall': 'excellent', 'device_connection': 'connected', 'device_type': 'Nothing Phone', 'model': 'A142', 'glyph_interface': 'not available', 'services': '5/10 available', 'performance': 'optimal', 'timestamp': '2025-08-25T15:00:14.213544'}
+2025-08-25 15:00:35,458 | NOTHING-CONTROL | INFO | execute_universal_command:509 | ⚡ Executing universal command: glyph_pattern [ID: cmd_1756114235458]
+2025-08-25 15:00:40,587 | NOTHING-CONTROL | INFO | execute_universal_command:556 | ✅ Command completed: glyph_pattern [5.125s]

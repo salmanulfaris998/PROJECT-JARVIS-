@@ -1,0 +1,46 @@
+2025-08-25 23:58:24,939 | ROOT-AI | INFO | _init_database | ✅ Root orchestrator database initialized
+2025-08-25 23:58:24,939 | ROOT-AI | INFO | _load_historical_data | 📊 Loaded 0 historical operations for AI learning
+2025-08-25 23:58:24,939 | ROOT-AI | INFO | _init_ai_decision_engine | ✅ AI decision engine initialized
+2025-08-25 23:58:24,939 | ROOT-AI | INFO | __init__ | 🦾 Intelligent Root Orchestrator v1.0 initialized
+2025-08-25 23:58:24,939 | ROOT-AI | INFO | initialize_orchestrator | 🚀 Initializing Intelligent Root Orchestrator...
+2025-08-25 23:58:25,377 | ROOT-AI | INFO | _verify_device_compatibility | ✅ Verified path: glyph_led
+2025-08-25 23:58:25,445 | ROOT-AI | INFO | _verify_device_compatibility | ✅ Verified path: selinux_enforce
+2025-08-25 23:58:25,445 | ROOT-AI | INFO | _verify_device_compatibility | ✅ Device compatibility verified
+2025-08-25 23:58:25,943 | ROOT-AI | INFO | _create_system_snapshot | 📸 System snapshot created: 84ff07841606
+2025-08-25 23:58:25,943 | ROOT-AI | INFO | _start_background_monitoring | 📊 Background monitoring started
+2025-08-25 23:58:25,944 | ROOT-AI | INFO | initialize_orchestrator | ✅ Intelligent Root Orchestrator operational!
+2025-08-25 23:58:25,944 | ROOT-AI | INFO | queue_operation | 🧠 Analyzing operation: 91ee86e838e0
+2025-08-25 23:58:25,944 | ROOT-AI | INFO | queue_operation | 🤖 AI approved operation 91ee86e838e0 (confidence: 1.00)
+2025-08-25 23:58:25,945 | ROOT-AI | INFO | queue_operation | 📋 Operation queued: 91ee86e838e0 - Control Glyph LED: breathing pattern at 200 brightness
+2025-08-25 23:58:25,945 | ROOT-AI | INFO | execute_next_operation | ⚡ Executing operation: 91ee86e838e0
+2025-08-25 23:58:26,516 | ROOT-AI | INFO | _create_system_snapshot | 📸 System snapshot created: 6d51cb18a7f9
+2025-08-25 23:58:26,516 | ROOT-AI | INFO | _execute_root_command | 🔧 Executing: echo 200 > /sys/class/leds/aw20036_led/brightness
+2025-08-25 23:58:26,606 | ROOT-AI | INFO | execute_next_operation | ✅ Operation 91ee86e838e0 completed successfully
+2025-08-25 23:58:29,610 | ROOT-AI | INFO | queue_operation | 🧠 Analyzing operation: d7a0a344d61d
+2025-08-25 23:58:29,610 | ROOT-AI | INFO | queue_operation | ⚡ Operation d7a0a344d61d force-approved
+2025-08-25 23:58:29,614 | ROOT-AI | INFO | queue_operation | 📋 Operation queued: d7a0a344d61d - Turn off Glyph LED
+2025-08-25 23:58:29,614 | ROOT-AI | INFO | execute_next_operation | ⚡ Executing operation: d7a0a344d61d
+2025-08-25 23:58:30,327 | ROOT-AI | INFO | _create_system_snapshot | 📸 System snapshot created: ed157516680b
+2025-08-25 23:58:30,327 | ROOT-AI | INFO | _execute_root_command | 🔧 Executing: echo 0 > /sys/class/leds/aw20036_led/brightness
+2025-08-25 23:58:30,496 | ROOT-AI | INFO | execute_next_operation | ✅ Operation d7a0a344d61d completed successfully
+2025-08-25 23:58:30,499 | ROOT-AI | INFO | queue_operation | 🧠 Analyzing operation: f9e4afd5c612
+2025-08-25 23:58:30,499 | ROOT-AI | INFO | queue_operation | ✅ Operation f9e4afd5c612 approved by risk tolerance
+2025-08-25 23:58:30,501 | ROOT-AI | INFO | queue_operation | 📋 Operation queued: f9e4afd5c612 - Disable surface flinger backpressure for gaming
+2025-08-25 23:58:30,501 | ROOT-AI | INFO | queue_operation | 🧠 Analyzing operation: 94e00391e598
+2025-08-25 23:58:30,501 | ROOT-AI | INFO | queue_operation | ✅ Operation 94e00391e598 approved by risk tolerance
+2025-08-25 23:58:30,503 | ROOT-AI | INFO | queue_operation | 📋 Operation queued: 94e00391e598 - Enable hardware EGL acceleration
+2025-08-25 23:58:30,504 | ROOT-AI | INFO | queue_operation | 🧠 Analyzing operation: 3ee77a0bdc79
+2025-08-25 23:58:30,504 | ROOT-AI | INFO | queue_operation | ✅ Operation 3ee77a0bdc79 approved by risk tolerance
+2025-08-25 23:58:30,506 | ROOT-AI | INFO | queue_operation | 📋 Operation queued: 3ee77a0bdc79 - Enable vendor gaming mode
+2025-08-25 23:58:30,506 | ROOT-AI | INFO | execute_next_operation | ⚡ Executing operation: f9e4afd5c612
+2025-08-25 23:58:31,390 | ROOT-AI | INFO | _create_system_snapshot | 📸 System snapshot created: 0ac2ca492f0c
+2025-08-25 23:58:31,390 | ROOT-AI | INFO | _execute_root_command | 🔧 Executing: setprop debug.sf.disable_backpressure 1
+2025-08-25 23:58:31,478 | ROOT-AI | INFO | execute_next_operation | ✅ Operation f9e4afd5c612 completed successfully
+2025-08-25 23:58:31,480 | ROOT-AI | INFO | execute_next_operation | ⚡ Executing operation: 94e00391e598
+2025-08-25 23:58:32,013 | ROOT-AI | INFO | _create_system_snapshot | 📸 System snapshot created: d9b4c85330f4
+2025-08-25 23:58:32,014 | ROOT-AI | INFO | _execute_root_command | 🔧 Executing: setprop debug.egl.hw 1
+2025-08-25 23:58:32,100 | ROOT-AI | INFO | execute_next_operation | ✅ Operation 94e00391e598 completed successfully
+2025-08-25 23:58:32,102 | ROOT-AI | INFO | execute_next_operation | ⚡ Executing operation: 3ee77a0bdc79
+2025-08-25 23:58:32,654 | ROOT-AI | INFO | _create_system_snapshot | 📸 System snapshot created: 444a24ad7b3f
+2025-08-25 23:58:32,654 | ROOT-AI | INFO | _execute_root_command | 🔧 Executing: setprop persist.vendor.perf.gaming_mode 1
+2025-08-25 23:58:32,750 | ROOT-AI | INFO | execute_next_operation | ✅ Operation 3ee77a0bdc79 completed successfully

@@ -1,0 +1,24 @@
+{
+  "session_id": "dc00158b",
+  "end_time": "2025-08-25T22:57:16.852160",
+  "total_uptime": 6.305973052978516,
+  "performance_stats": {
+    "session_start": 1756142830.546201,
+    "commands_executed": 490,
+    "success_rate": 100.0,
+    "glyph_commands": 0,
+    "root_commands": 0,
+    "errors": 488,
+    "warnings": 0,
+    "cache_hits": 0,
+    "avg_execution_time": 0.01162936590155777,
+    "security_blocks": 0
+  },
+  "features_used": {},
+  "device_info": {
+    "model": "Unknown",
+    "is_nothing_phone": false,
+    "glyph_available": false,
+    "root_verified": false
+  }
+}

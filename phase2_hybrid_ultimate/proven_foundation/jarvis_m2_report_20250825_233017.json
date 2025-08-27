@@ -1,0 +1,83 @@
+{
+  "report_timestamp": "2025-08-25T23:30:17.305537",
+  "system_info": {
+    "hardware": {
+      "model": "MacBook Air",
+      "chip": "Apple M2",
+      "architecture": "ARM64",
+      "efficiency_cores": 4,
+      "performance_cores": 4,
+      "max_gflops": 628,
+      "neural_engine_tops": 15.8,
+      "max_memory_bandwidth": "100 GB/s"
+    },
+    "software": {
+      "macos_version": "15.1.1",
+      "python_version": "3.12.11",
+      "uptime_hours": 13.77369866391023,
+      "total_memory_gb": 8.0,
+      "available_memory_gb": 1.4389495849609375
+    },
+    "jarvis_version": "2.0 Perfect Edition",
+    "analytics_version": "1.0"
+  },
+  "current_status": {
+    "m2_metrics": {},
+    "jarvis_metrics": {
+      "ai_processing_time": 0.8,
+      "ai_success_rate": 100.0,
+      "device_control_success_rate": 100.0,
+      "voice_recognition_accuracy": 100.0,
+      "m2_gflops_current": 375.0,
+      "m2_gflops_peak": 628,
+      "neural_network_efficiency": 59.71337579617835,
+      "response_latency": 0.4
+    },
+    "monitoring_active": true
+  },
+  "performance_analysis": {
+    "status": "Insufficient data for trend analysis",
+    "data_points": 0
+  },
+  "m2_optimization": {
+    "status": "No current metrics available"
+  },
+  "jarvis_insights": {
+    "ai_performance": {
+      "processing_speed_rating": "good",
+      "success_rate_status": "excellent",
+      "current_gflops_utilization": "375.0 / 628 GFLOPS",
+      "neural_efficiency_percent": 59.71337579617835
+    },
+    "interaction_quality": {
+      "voice_accuracy_rating": "excellent",
+      "device_control_rating": "excellent",
+      "response_time_rating": "excellent"
+    },
+    "optimization_opportunities": [
+      "Neural Engine utilization can be increased"
+    ]
+  },
+  "health_score": {
+    "score": 0,
+    "status": "insufficient_data"
+  },
+  "recommendations": [
+    {
+      "priority": "info",
+      "category": "system",
+      "message": "Insufficient data for recommendations"
+    }
+  ],
+  "alerts": [],
+  "statistics": {
+    "monitoring": {
+      "total_m2_samples": 0,
+      "total_jarvis_samples": 8,
+      "data_coverage_hours": 0,
+      "monitoring_uptime_percent": 100.0
+    },
+    "performance_records": {},
+    "efficiency_metrics": {}
+  }
+}

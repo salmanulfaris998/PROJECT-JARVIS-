@@ -1,0 +1,21 @@
+{
+  "name": "JARVIS Premium",
+  "version": "1.0",
+  "colors": {
+    "primary": "#00E5FF",
+    "primary_dark": "#0091EA",
+    "accent": "#FF6D00",
+    "background": "#0D1117",
+    "surface": "#161B22",
+    "text_primary": "#F0F6FC",
+    "text_secondary": "#7D8590"
+  },
+  "animations": "fluid",
+  "icons": "outlined",
+  "fonts": "roboto_mono",
+  "effects": [
+    "glow",
+    "particles",
+    "transitions"
+  ]
+}

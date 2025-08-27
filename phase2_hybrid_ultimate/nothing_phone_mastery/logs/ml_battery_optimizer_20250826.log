@@ -1,0 +1,52 @@
+2025-08-26 15:34:03,474 | BATTERY-ML | INFO | ✅ ML Battery Optimizer database initialized
+2025-08-26 15:34:03,474 | BATTERY-ML | INFO | 🔋 Advanced ML Battery Optimizer initialized for Nothing Phone 2a
+2025-08-26 15:34:03,474 | BATTERY-ML | INFO | 🚀 Initializing ML Battery Management System...
+2025-08-26 15:34:03,622 | BATTERY-ML | INFO | ✅ Battery hardware detected: 93%
+2025-08-26 15:34:03,622 | BATTERY-ML | INFO | 🧠 Initializing ML models...
+2025-08-26 15:34:03,622 | BATTERY-ML | ERROR | ML model initialization failed: 'MLBatteryOptimizer' object has no attribute '_train_models_if_data_available'
+2025-08-26 15:34:03,622 | BATTERY-ML | INFO | ✅ ML Battery Management System operational!
+2025-08-26 15:34:03,630 | BATTERY-ML | ERROR | Adaptive optimization error: 'MLBatteryOptimizer' object has no attribute '_analyze_usage_patterns'
+2025-08-26 15:34:03,630 | BATTERY-ML | ERROR | Battery health monitoring error: 'MLBatteryOptimizer' object has no attribute '_collect_battery_health_data'
+2025-08-26 15:34:04,099 | BATTERY-ML | ERROR | Charging optimization failed: 'MLBatteryOptimizer' object has no attribute '_enable_slow_charging'
+2025-08-26 15:38:05,585 | BATTERY-ML | INFO | ✅ ML Battery Optimizer database initialized
+2025-08-26 15:38:05,585 | BATTERY-ML | INFO | 🔋 Advanced ML Battery Optimizer initialized for Nothing Phone 2a
+2025-08-26 15:38:05,585 | BATTERY-ML | INFO | 🚀 Initializing ML Battery Management System...
+2025-08-26 15:38:05,693 | BATTERY-ML | INFO | ✅ Battery hardware detected: 93%
+2025-08-26 15:38:05,693 | BATTERY-ML | INFO | 🧠 Initializing ML models...
+2025-08-26 15:38:05,694 | BATTERY-ML | INFO | Not enough data for training (2/100)
+2025-08-26 15:38:05,694 | BATTERY-ML | INFO | ✅ ML models initialized
+2025-08-26 15:38:05,694 | BATTERY-ML | INFO | ✅ ML Battery Management System operational!
+2025-08-26 15:38:05,702 | BATTERY-ML | ERROR | Usage pattern analysis failed: the resolved dtypes are not compatible with add.reduce. Resolved (dtype('<U8'), dtype('<U8'), dtype('<U16'))
+2025-08-26 15:38:05,702 | BATTERY-ML | ERROR | Adaptive optimization error: 'MLBatteryOptimizer' object has no attribute '_periodic_model_retraining'
+2025-08-26 15:38:06,276 | BATTERY-ML | INFO | 🐌 Slow charging enabled (80-100%) for battery health
+2025-08-26 15:38:06,277 | BATTERY-ML | ERROR | Charging optimization failed: 'MLBatteryOptimizer' object has no attribute '_log_charging_optimization'
+2025-08-26 15:39:27,269 | BATTERY-ML | INFO | ✅ ML Battery Optimizer database initialized
+2025-08-26 15:39:27,269 | BATTERY-ML | INFO | 🔋 Advanced ML Battery Optimizer initialized for Nothing Phone 2a
+2025-08-26 15:39:27,269 | BATTERY-ML | INFO | 🚀 Initializing ML Battery Management System...
+2025-08-26 15:39:27,291 | BATTERY-ML | ERROR | ❌ Cannot access battery hardware
+2025-08-26 15:44:00,235 | BATTERY-ML | INFO | ✅ ML Battery Optimizer database initialized
+2025-08-26 15:44:00,236 | BATTERY-ML | INFO | 🔋 Advanced ML Battery Optimizer initialized for Nothing Phone 2a
+2025-08-26 15:44:00,236 | BATTERY-ML | INFO | 🚀 Initializing ML Battery Management System...
+2025-08-26 15:44:00,367 | BATTERY-ML | INFO | ✅ Battery hardware detected: 93%
+2025-08-26 15:44:00,367 | BATTERY-ML | INFO | 🧠 Initializing ML models...
+2025-08-26 15:44:00,368 | BATTERY-ML | INFO | Not enough data for training (4/100)
+2025-08-26 15:44:00,368 | BATTERY-ML | INFO | ✅ ML models initialized
+2025-08-26 15:44:00,369 | BATTERY-ML | INFO | ✅ ML Battery Management System operational!
+2025-08-26 15:44:00,378 | BATTERY-ML | ERROR | Usage pattern analysis failed: the resolved dtypes are not compatible with add.reduce. Resolved (dtype('<U8'), dtype('<U8'), dtype('<U16'))
+2025-08-26 15:44:00,378 | BATTERY-ML | INFO | 🔄 Periodic ML model retraining started...
+2025-08-26 15:44:00,379 | BATTERY-ML | ERROR | Battery health monitoring error: 'MLBatteryOptimizer' object has no attribute '_collect_battery_health_data'
+2025-08-26 15:44:00,709 | BATTERY-ML | ERROR | Charging optimization failed: 'MLBatteryOptimizer' object has no attribute '_enable_slow_charging'
+2025-08-26 15:53:59,698 | BATTERY-ML | INFO | ✅ ML Battery Optimizer database initialized
+2025-08-26 15:53:59,699 | BATTERY-ML | INFO | 🔋 Advanced ML Battery Optimizer initialized for Nothing Phone 2a
+2025-08-26 15:53:59,699 | BATTERY-ML | INFO | 🚀 Initializing ML Battery Management System...
+2025-08-26 15:53:59,823 | BATTERY-ML | INFO | ✅ Battery hardware detected: 95%
+2025-08-26 15:53:59,824 | BATTERY-ML | INFO | 🧠 Initializing ML models...
+2025-08-26 15:53:59,824 | BATTERY-ML | INFO | Not enough data for training (5/100)
+2025-08-26 15:53:59,824 | BATTERY-ML | INFO | ✅ ML models initialized
+2025-08-26 15:53:59,824 | BATTERY-ML | INFO | ✅ ML Battery Management System operational!
+2025-08-26 15:53:59,833 | BATTERY-ML | ERROR | Feature extraction failed: the resolved dtypes are not compatible with add.reduce. Resolved (dtype('<U8'), dtype('<U8'), dtype('<U16'))
+2025-08-26 15:53:59,835 | BATTERY-ML | ERROR | Usage pattern analysis failed: the resolved dtypes are not compatible with add.reduce. Resolved (dtype('<U8'), dtype('<U8'), dtype('<U16'))
+2025-08-26 15:53:59,835 | BATTERY-ML | INFO | 🔄 Periodic ML model retraining started...
+2025-08-26 15:54:00,231 | BATTERY-ML | INFO | 🐌 Slow charging enabled for battery health
+2025-08-26 15:54:00,391 | BATTERY-ML | INFO | 🐌 Slow charging enabled (80-100%) for battery health
+2025-08-26 15:54:00,392 | BATTERY-ML | ERROR | Failed to log charging optimization: Error binding parameter 3: type 'ChargingPhase' is not supported

@@ -1,0 +1,10 @@
+2025-08-24 18:26:48,821 - WARNING - Command failed: shell rm -f /sdcard/jarvis_temp/jarvis_test - rm: /sdcard/jarvis_temp/jarvis_test: Is a directory
+
+2025-08-24 18:31:17,956 - WARNING - Command failed: shell rm -f /sdcard/jarvis_temp/jarvis_test - rm: /sdcard/jarvis_temp/jarvis_test: Is a directory
+
+2025-08-24 18:41:46,416 - WARNING - Command failed: shell rm -f /sdcard/jarvis_temp/jarvis_test - rm: /sdcard/jarvis_temp/jarvis_test: Is a directory
+
+2025-08-24 18:44:56,438 - WARNING - Command failed: shell rm -f /sdcard/jarvis_temp/jarvis_test - rm: /sdcard/jarvis_temp/jarvis_test: Is a directory
+
+2025-08-24 18:49:22,372 - WARNING - Command failed: shell rm -f /sdcard/jarvis_temp/jarvis_test - rm: /sdcard/jarvis_temp/jarvis_test: Is a directory
+

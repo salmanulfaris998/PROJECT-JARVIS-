@@ -1,0 +1,26 @@
+{
+  "timestamp": 1756142956.0245728,
+  "device_model": "A142",
+  "hardware_paths": {
+    "glyph_leds": [
+      "aw20036_led"
+    ],
+    "cpu_controls": {
+      "scaling_governor": true,
+      "scaling_min_freq": true,
+      "scaling_max_freq": true,
+      "scaling_cur_freq": true
+    },
+    "thermal_zones": 64,
+    "camera_packages": [
+      "com.nothing.camera",
+      "com.android.camera"
+    ]
+  },
+  "glyph_available": true,
+  "glyph_zones": {
+    "unknown": [
+      "aw20036_led"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+2025-08-25 15:26:14,350 | GOD-CONTROL | INFO | _init_command_database:151 | 📊 God-level command database initialized successfully
+2025-08-25 15:26:14,351 | GOD-CONTROL | INFO | __init__:78 | 🔥 Nothing Phone God-Level Control System v5.0 Initialized
+2025-08-25 15:26:14,351 | GOD-CONTROL | INFO | initialize_god_level_control:416 | 🚀 Initializing God-Level Universal Control System...
+2025-08-25 15:26:14,412 | GOD-CONTROL | INFO | _verify_system_requirements:459 | ✅ ADB Available: Android Debug Bridge version 1.0.41
+2025-08-25 15:26:14,512 | GOD-CONTROL | INFO | _verify_system_requirements:464 | ✅ Root access verified
+2025-08-25 15:26:15,118 | GOD-CONTROL | INFO | _detect_device_capabilities:496 | ✅ Nothing Phone detected: A142
+2025-08-25 15:26:15,118 | GOD-CONTROL | INFO | _detect_device_capabilities:500 | 📱 Device: A142
+2025-08-25 15:26:15,119 | GOD-CONTROL | INFO | _detect_device_capabilities:501 | 🤖 Android: 15
+2025-08-25 15:26:15,119 | GOD-CONTROL | INFO | _detect_device_capabilities:502 | 🏭 Manufacturer: Nothing
+2025-08-25 15:26:15,119 | GOD-CONTROL | INFO | god_level_initialization:326 | 🚀 Initializing GOD-LEVEL features...
+2025-08-25 15:26:15,119 | GOD-CONTROL | INFO | enable_selinux_permissive:161 | 🔓 Setting SELinux to permissive mode...
+2025-08-25 15:26:15,211 | GOD-CONTROL | INFO | enable_selinux_permissive:167 | 📊 Current SELinux mode: Permissive
+2025-08-25 15:26:15,211 | GOD-CONTROL | INFO | enable_selinux_permissive:178 | ✅ SELinux already permissive!
+2025-08-25 15:26:15,211 | GOD-CONTROL | INFO | god_level_initialization:331 | ✅ SELinux bypass successful!
+2025-08-25 15:26:15,211 | GOD-CONTROL | INFO | discover_hardware_paths:268 | 🔍 Discovering REAL hardware paths...
+2025-08-25 15:26:15,488 | GOD-CONTROL | INFO | discover_hardware_paths:298 | 📊 Hardware discovery: Found 3 LEDs, 1 Glyph LEDs
+2025-08-25 15:26:15,488 | GOD-CONTROL | INFO | god_level_initialization:336 | ✅ Hardware discovery complete!
+2025-08-25 15:26:15,488 | GOD-CONTROL | INFO | control_real_glyph_hardware:188 | 🌟 Controlling REAL Glyph hardware: solid at 100 brightness
+2025-08-25 15:26:16,677 | GOD-CONTROL | INFO | god_level_initialization:341 | ✅ REAL Glyph hardware control verified!
+2025-08-25 15:26:16,677 | GOD-CONTROL | INFO | optimize_cpu_performance_root:227 | ⚡ ROOT CPU optimization: balanced mode
+2025-08-25 15:26:17,071 | GOD-CONTROL | INFO | god_level_initialization:350 | 🔥 GOD-LEVEL features initialized!
+2025-08-25 15:26:17,072 | GOD-CONTROL | INFO | _initialize_available_services:557 | 🔧 Detecting available services...
+2025-08-25 15:26:17,409 | GOD-CONTROL | INFO | _initialize_available_services:583 | ✅ nothing_launcher: Available
+2025-08-25 15:26:17,645 | GOD-CONTROL | INFO | _initialize_available_services:583 | ✅ nothing_recorder: Available
+2025-08-25 15:26:17,811 | GOD-CONTROL | INFO | _initialize_available_services:583 | ✅ nothing_camera: Available
+2025-08-25 15:26:17,967 | GOD-CONTROL | INFO | _initialize_available_services:583 | ✅ nothing_gallery: Available
+2025-08-25 15:26:18,142 | GOD-CONTROL | INFO | _initialize_available_services:583 | ✅ android_settings: Available
+2025-08-25 15:26:18,373 | GOD-CONTROL | INFO | _initialize_available_services:595 | 📊 Found 5/10 services
+2025-08-25 15:26:18,373 | GOD-CONTROL | INFO | _start_performance_monitoring:628 | 📊 Performance monitoring started
+2025-08-25 15:26:18,374 | GOD-CONTROL | INFO | initialize_god_level_control:440 | ✅ God-Level Universal Control System Fully Operational!
+2025-08-25 15:26:18,374 | GOD-CONTROL | INFO | initialize_god_level_control:441 | 📊 System Health: {'overall': 'god_level', 'device_connection': 'connected', 'device_type': 'Nothing Phone', 'model': 'A142', 'root_access': 'verified', 'glyph_interface': 'hardware_control', 'services': '5/10 available', 'performance': 'optimal', 'timestamp': '2025-08-25T15:26:18.374038'}
+2025-08-25 15:26:18,374 | GOD-CONTROL | INFO | enable_selinux_permissive:161 | 🔓 Setting SELinux to permissive mode...
+2025-08-25 15:26:18,455 | GOD-CONTROL | INFO | enable_selinux_permissive:167 | 📊 Current SELinux mode: Permissive
+2025-08-25 15:26:18,455 | GOD-CONTROL | INFO | enable_selinux_permissive:178 | ✅ SELinux already permissive!
+2025-08-25 15:26:19,457 | GOD-CONTROL | INFO | discover_hardware_paths:268 | 🔍 Discovering REAL hardware paths...
+2025-08-25 15:26:19,723 | GOD-CONTROL | INFO | discover_hardware_paths:298 | 📊 Hardware discovery: Found 3 LEDs, 1 Glyph LEDs
+2025-08-25 15:26:20,724 | GOD-CONTROL | INFO | control_real_glyph_hardware:188 | 🌟 Controlling REAL Glyph hardware: breathing at 200 brightness
+2025-08-25 15:26:25,042 | GOD-CONTROL | INFO | optimize_cpu_performance_root:227 | ⚡ ROOT CPU optimization: gaming mode
+2025-08-25 15:26:26,899 | GOD-CONTROL | INFO | execute_raw_root_command:307 | ⚡ Executing RAW ROOT command: ls -la /sys/class/leds/...
